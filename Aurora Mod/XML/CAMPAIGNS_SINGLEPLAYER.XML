@@ -116,7 +116,7 @@
 		<Starting_Forces> Rebel, Alderaan, Rebel_Light_Tank_Brigade </Starting_Forces>
 		<Starting_Forces> Rebel, Alderaan, Katarn_Team </Starting_Forces>
 		<!-- Empire Starting Forces -->
-		<Starting_Credits> Empire,  30000 </Starting_Credits>
+		<Starting_Credits> Empire,  30000000000 </Starting_Credits>
 		<Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
 		<Max_Tech_Level> Empire, 5 </Max_Tech_Level>
 		<!-- Empire Space Forces -->
@@ -569,7 +569,7 @@
 		<Starting_Forces> Empire, Sullust, Imperial_Light_Scout_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Sullust, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<!-- Pirate Starting Forces -->
-		
+
                 <Starting_Credits> Pirates,  8000 </Starting_Credits>
 		<Starting_Tech_Level> Pirates, 4 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirates, 4 </Max_Tech_Level>
@@ -2277,7 +2277,7 @@
 		<Starting_Forces> Empire, Carida, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Carida, Imperial_Anti_Infantry_Brigade </Starting_Forces>
 		<!-- Pirate Starting Forces -->
-		
+
                 <Starting_Credits> Pirate,  15000 </Starting_Credits>
 		<Starting_Tech_Level> Pirate, 2 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirate, 4 </Max_Tech_Level>
@@ -4073,7 +4073,7 @@
 		<Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<!-- Pirate Starting Forces -->
-		
+
                 <Starting_Credits> Pirates,  6000 </Starting_Credits>
 		<Starting_Tech_Level> Pirates, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirates, 4 </Max_Tech_Level>
@@ -5538,7 +5538,7 @@
 	<!-- ************************************************ -->
 	<!-- ***** SANDBOX CAMPAIGN "The Conflict Begins" ***** -->
 	<!-- ************************************************ -->
-	
+
 	<Campaign Name="Campaign_The_Conflict_Begins_Rebel">
 
 		<Campaign_Set> Sandbox_The_Conflict_Begins </Campaign_Set>
@@ -5563,7 +5563,7 @@
 		<Trade_Routes> Wayland_AlzocIII, Atzerri_Thyferra, Fondor_Anaxes, Dagobah_Byss, Corellia_NalHutta, NalHutta_Ryloth, MonCalimari_Shola, MonCalimari_Yavin, Alderaan_Korriban </Trade_Routes>
 
 		<Starting_Active_Player> Rebel </Starting_Active_Player>
-		
+
 		<AI_Player_Control> Empire, BasicEmpire</AI_Player_Control>
 		<AI_Player_Control> Pirates, BasicPirates </AI_Player_Control>
 		<AI_Player_Control> Rebel, SandboxHuman </AI_Player_Control>
@@ -5591,22 +5591,22 @@
 
 
         <!-- Special Case Planets for Cantinas and Hutt Palaces -->
-		
+
 		<Special_Case_Production> Empire, Corellia, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Corellia, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, NalHutta, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, NalHutta, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, NalHutta, Ground_Hutt_Palace_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, NalHutta, Ground_Hutt_Palace_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, Ryloth, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Ryloth, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, Ryloth, Ground_Hutt_Palace_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Ryloth, Ground_Hutt_Palace_R</Special_Case_Production>
-		
+
 
 
 
@@ -5616,7 +5616,7 @@
 		<Starting_Credits> Rebel,  8000 </Starting_Credits>
 		<Starting_Tech_Level> Rebel, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
-                                                     
+
         <!-- HOTH -->
 		<Starting_Forces> Rebel, Hoth, Rebel_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Rebel, Hoth, Rebel_X-Wing_Squadron </Starting_Forces>
@@ -5665,8 +5665,8 @@
 		<!-- CORUSCANT -->
 		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Broadside_Class_Cruiser </Starting_Forces>
-		<Starting_Forces> Empire, Coruscant, Acclamator_Assault_Ship </Starting_Forces>	
-			
+		<Starting_Forces> Empire, Coruscant, Acclamator_Assault_Ship </Starting_Forces>
+
 		<Starting_Forces> Empire, Coruscant, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Empire_Ground_Mining_Facility </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Imperial_Stormtrooper_Squad </Starting_Forces>
@@ -5677,8 +5677,8 @@
 
 		<!-- THYFERRA -->
 		<Starting_Forces> Empire, Thyferra, Empire_Star_Base_1 </Starting_Forces>
-		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>	
-		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>	
+		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
 
 		<Starting_Forces> Empire, Thyferra, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Thyferra, Empire_Ground_Mining_Facility </Starting_Forces>
@@ -5690,7 +5690,7 @@
 		<!-- Pirate Starting Forces -->
 
 		<!-- Major Choke-point Concentrations -->
-		
+
 		<Starting_Forces> Pirates, NalHutta, Pirate_Asteroid_Base </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Fighter_Squadron </Starting_Forces>
@@ -5706,10 +5706,10 @@
 
 		<Starting_Forces> Pirates, NalHutta, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, NalHutta, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, NalHutta, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, NalHutta, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -5730,10 +5730,10 @@
 
 		<Starting_Forces> Pirates, Fondor, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Fondor, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Fondor, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Fondor, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -5754,10 +5754,10 @@
 
 		<Starting_Forces> Pirates, Korriban, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Korriban, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Korriban, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Korriban, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -5778,10 +5778,10 @@
 
 		<Starting_Forces> Pirates, Dagobah, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Dagobah, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Dagobah, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Dagobah, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -5799,9 +5799,9 @@
 
 		<Starting_Forces> Pirates, Wayland, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Wayland, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, Wayland, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Wayland, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Wayland, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Wayland, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Wayland, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -5819,9 +5819,9 @@
 		<Starting_Forces> Pirates, MonCalimari, Count_Dooku_Team </Starting_Forces>
                 <Starting_Forces> Pirates, MonCalimari, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, MonCalimari, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, MonCalimari, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalimari, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalimari, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, MonCalimari, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -5836,9 +5836,9 @@
 
 		<Starting_Forces> Pirates, Corellia, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Corellia, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, Corellia, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Corellia, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Corellia, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Corellia, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Corellia, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -5853,9 +5853,9 @@
 
 		<Starting_Forces> Pirates, Atzerri, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Atzerri, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, Atzerri, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Atzerri, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Atzerri, Pirate_Swamp_Speeder_Team </Starting_Forces>
 
 
 		<Starting_Forces> Pirates, Jabiim, Pirate_Fighter_Squadron </Starting_Forces>
@@ -5865,8 +5865,8 @@
 
 		<Starting_Forces> Pirates, Jabiim, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Jabiim, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Jabiim, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Jabiim, Pirate_Swamp_Speeder_Team </Starting_Forces>
 
 
@@ -5877,11 +5877,11 @@
 
 		<Starting_Forces> Pirates, Bonadan, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Bonadan, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Bonadan, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Bonadan, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
-		
+
+
 		<Starting_Forces> Pirates, Ryloth, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -5889,11 +5889,11 @@
 
 		<Starting_Forces> Pirates, Ryloth, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Ryloth, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Ryloth, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
-		
+
+
 		<Starting_Forces> Pirates, Byss, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -5901,10 +5901,10 @@
 
 		<Starting_Forces> Pirates, Byss, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Byss, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Byss, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
+
    </Campaign>
 
 
@@ -5931,7 +5931,7 @@
 		<Trade_Routes> Wayland_AlzocIII, Atzerri_Thyferra, Fondor_Anaxes, Dagobah_Byss, Corellia_NalHutta, NalHutta_Ryloth, MonCalimari_Shola, MonCalimari_Yavin, Alderaan_Korriban </Trade_Routes>
 
 		<Starting_Active_Player> Empire </Starting_Active_Player>
-		
+
 		<AI_Player_Control> Empire, SandboxHuman</AI_Player_Control>
 		<AI_Player_Control> Pirates, BasicPirates </AI_Player_Control>
 		<AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
@@ -5959,22 +5959,22 @@
 
 
         <!-- Special Case Planets for Cantinas and Hutt Palaces -->
-		
+
 		<Special_Case_Production> Empire, Corellia, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Corellia, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, NalHutta, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, NalHutta, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, NalHutta, Ground_Hutt_Palace_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, NalHutta, Ground_Hutt_Palace_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, Ryloth, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Ryloth, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, Ryloth, Ground_Hutt_Palace_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Ryloth, Ground_Hutt_Palace_R</Special_Case_Production>
-		
+
 
 
 
@@ -5984,7 +5984,7 @@
 		<Starting_Credits> Rebel,  15000 </Starting_Credits>
 		<Starting_Tech_Level> Rebel, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
-                                                     
+
         <!-- HOTH -->
 		<Starting_Forces> Rebel, Hoth, Rebel_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Rebel, Hoth, Rebel_X-Wing_Squadron </Starting_Forces>
@@ -6014,7 +6014,7 @@
 		<Starting_Forces> Rebel, Yavin, Rebel_Tank_Buster_Squad </Starting_Forces>
 		<Starting_Forces> Rebel, Yavin, Rebel_Ground_Mining_Facility </Starting_Forces>
 		<Starting_Forces> Rebel, Yavin, R_Ground_Barracks </Starting_Forces>
-		
+
 
 		<!-- Empire Starting Forces -->
 
@@ -6026,10 +6026,10 @@
 		<!-- CORUSCANT -->
 		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Broadside_Class_Cruiser </Starting_Forces>
-		<Starting_Forces> Empire, Coruscant, Acclamator_Assault_Ship </Starting_Forces>	
-		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>	
-		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>	
-			
+		<Starting_Forces> Empire, Coruscant, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>
+
 		<Starting_Forces> Empire, Coruscant, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Imperial_Stormtrooper_Squad </Starting_Forces>
@@ -6038,9 +6038,9 @@
 
 		<!-- THYFERRA -->
 		<Starting_Forces> Empire, Thyferra, Empire_Star_Base_1 </Starting_Forces>
-		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>	
 		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
-		<Starting_Forces> Empire, Thyferra, Tartan_Patrol_Cruiser </Starting_Forces>	
+		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Tartan_Patrol_Cruiser </Starting_Forces>
 
 		<Starting_Forces> Empire, Thyferra, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Thyferra, Imperial_Stormtrooper_Squad </Starting_Forces>
@@ -6051,7 +6051,7 @@
 		<!-- Pirate Starting Forces -->
 
 		<!-- Major Choke-point Concentrations -->
-		
+
 		<Starting_Forces> Pirates, NalHutta, Pirate_Asteroid_Base </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Fighter_Squadron </Starting_Forces>
@@ -6067,10 +6067,10 @@
 
 		<Starting_Forces> Pirates, NalHutta, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, NalHutta, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, NalHutta, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, NalHutta, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6091,10 +6091,10 @@
 
 		<Starting_Forces> Pirates, Fondor, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Fondor, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Fondor, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Fondor, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6116,14 +6116,14 @@
 
 		<Starting_Forces> Pirates, Korriban, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Korriban, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Korriban, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Korriban, Pirate_Pod_Walker_Team </Starting_Forces>
-      	
+
 
 		<Starting_Forces> Pirates, Dagobah, Pirate_Asteroid_Base </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Fighter_Squadron </Starting_Forces>
@@ -6140,10 +6140,10 @@
 
 		<Starting_Forces> Pirates, Dagobah, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Dagobah, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Dagobah, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Dagobah, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6159,8 +6159,8 @@
 
 		<Starting_Forces> Pirates, Wayland, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Wayland, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Wayland, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Wayland, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Wayland, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -6176,9 +6176,9 @@
                 <Starting_Forces> Pirates, MonCalimari, Count_Dooku_Team </Starting_Forces>
                 <Starting_Forces> Pirates, MonCalimari, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, MonCalimari, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, MonCalimari, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalimari, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalimari, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Skiff_Team </Starting_Forces>
 
 
@@ -6192,9 +6192,9 @@
 
 		<Starting_Forces> Pirates, Corellia, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Corellia, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, Corellia, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Corellia, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Corellia, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Corellia, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Corellia, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -6209,8 +6209,8 @@
 
 		<Starting_Forces> Pirates, Atzerri, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Atzerri, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Atzerri, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Atzerri, Pirate_Swamp_Speeder_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Atzerri, Pirate_Pod_Walker_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Atzerri, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6222,8 +6222,8 @@
 
 		<Starting_Forces> Pirates, Jabiim, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Jabiim, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Jabiim, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Jabiim, Pirate_Swamp_Speeder_Team </Starting_Forces>
 
 
@@ -6234,11 +6234,11 @@
 
 		<Starting_Forces> Pirates, Bonadan, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Bonadan, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Bonadan, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Bonadan, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
-		
+
+
 		<Starting_Forces> Pirates, Ryloth, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -6246,11 +6246,11 @@
 
 		<Starting_Forces> Pirates, Ryloth, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Ryloth, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Ryloth, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
-		
+
+
 		<Starting_Forces> Pirates, Byss, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -6258,10 +6258,10 @@
 
 		<Starting_Forces> Pirates, Byss, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Byss, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Byss, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
+
    </Campaign>
 
 <Campaign Name="Campaign_The_Conflict_Begins_Pirates">
@@ -6287,7 +6287,7 @@
 		<Trade_Routes> Wayland_AlzocIII, Atzerri_Thyferra, Fondor_Anaxes, Dagobah_Byss, Corellia_NalHutta, NalHutta_Ryloth, MonCalimari_Shola, MonCalimari_Yavin, Alderaan_Korriban </Trade_Routes>
 
 		<Starting_Active_Player> Pirates </Starting_Active_Player>
-		
+
 		<AI_Player_Control> Empire, BasicEmpire</AI_Player_Control>
 		<AI_Player_Control> Pirates, SandboxHuman </AI_Player_Control>
 		<AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
@@ -6315,22 +6315,22 @@
 
 
         <!-- Special Case Planets for Cantinas and Hutt Palaces -->
-		
+
 		<Special_Case_Production> Empire, Corellia, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Corellia, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, NalHutta, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, NalHutta, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, NalHutta, Ground_Hutt_Palace_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, NalHutta, Ground_Hutt_Palace_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, Ryloth, Ground_Cantina_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Ryloth, Ground_Cantina_R</Special_Case_Production>
-		
+
 		<Special_Case_Production> Empire, Ryloth, Ground_Hutt_Palace_E</Special_Case_Production>
 		<Special_Case_Production> Rebel, Ryloth, Ground_Hutt_Palace_R</Special_Case_Production>
-		
+
 
 
 
@@ -6340,7 +6340,7 @@
 		<Starting_Credits> Rebel,  15000 </Starting_Credits>
 		<Starting_Tech_Level> Rebel, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
-                                                     
+
         <!-- HOTH -->
 		<Starting_Forces> Rebel, Hoth, Rebel_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Rebel, Hoth, Rebel_X-Wing_Squadron </Starting_Forces>
@@ -6370,7 +6370,7 @@
 		<Starting_Forces> Rebel, Yavin, Rebel_Tank_Buster_Squad </Starting_Forces>
 		<Starting_Forces> Rebel, Yavin, Rebel_Ground_Mining_Facility </Starting_Forces>
 		<Starting_Forces> Rebel, Yavin, R_Ground_Barracks </Starting_Forces>
-		
+
 
 		<!-- Empire Starting Forces -->
 
@@ -6382,10 +6382,10 @@
 		<!-- CORUSCANT -->
 		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Broadside_Class_Cruiser </Starting_Forces>
-		<Starting_Forces> Empire, Coruscant, Acclamator_Assault_Ship </Starting_Forces>	
-		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>	
-		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>	
-			
+		<Starting_Forces> Empire, Coruscant, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant, Tartan_Patrol_Cruiser </Starting_Forces>
+
 		<Starting_Forces> Empire, Coruscant, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Imperial_Stormtrooper_Squad </Starting_Forces>
@@ -6394,9 +6394,9 @@
 
 		<!-- THYFERRA -->
 		<Starting_Forces> Empire, Thyferra, Empire_Star_Base_1 </Starting_Forces>
-		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>	
 		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
-		<Starting_Forces> Empire, Thyferra, Tartan_Patrol_Cruiser </Starting_Forces>	
+		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Tartan_Patrol_Cruiser </Starting_Forces>
 
 		<Starting_Forces> Empire, Thyferra, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Thyferra, Imperial_Stormtrooper_Squad </Starting_Forces>
@@ -6407,7 +6407,7 @@
 		<!-- Pirate Starting Forces -->
 
 		<!-- Major Choke-point Concentrations -->
-		
+
 		<Starting_Forces> Pirates, NalHutta, Pirate_Asteroid_Base </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Fighter_Squadron </Starting_Forces>
@@ -6423,10 +6423,10 @@
 
 		<Starting_Forces> Pirates, NalHutta, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, NalHutta, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, NalHutta, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, NalHutta, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, NalHutta, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, NalHutta, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, NalHutta, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6447,10 +6447,10 @@
 
 		<Starting_Forces> Pirates, Fondor, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Fondor, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Fondor, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Fondor, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Fondor, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Fondor, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Fondor, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6472,14 +6472,14 @@
 
 		<Starting_Forces> Pirates, Korriban, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Korriban, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Korriban, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Korriban, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Korriban, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Korriban, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Korriban, Pirate_Pod_Walker_Team </Starting_Forces>
-      	
+
 
 		<Starting_Forces> Pirates, Dagobah, Pirate_Asteroid_Base </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Fighter_Squadron </Starting_Forces>
@@ -6496,10 +6496,10 @@
 
 		<Starting_Forces> Pirates, Dagobah, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Dagobah, Pirate_PLEX_Squad </Starting_Forces>		
+		<Starting_Forces> Pirates, Dagobah, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Dagobah, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Dagobah, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Skiff_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Dagobah, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Dagobah, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6515,8 +6515,8 @@
 
 		<Starting_Forces> Pirates, Wayland, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Wayland, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Wayland, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Wayland, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Wayland, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Wayland, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -6532,9 +6532,9 @@
 
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, MonCalimari, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, MonCalimari, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, MonCalimari, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalimari, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalimari, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, MonCalimari, Pirate_Skiff_Team </Starting_Forces>
 
 
@@ -6548,9 +6548,9 @@
 
 		<Starting_Forces> Pirates, Corellia, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Corellia, Pirate_PLEX_Squad </Starting_Forces>	
-		<Starting_Forces> Pirates, Corellia, Pirate_Swamp_Speeder_Team </Starting_Forces>	
+		<Starting_Forces> Pirates, Corellia, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Corellia, Pirate_PLEX_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Corellia, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Corellia, Pirate_Skiff_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Corellia, Pirate_Pod_Walker_Team </Starting_Forces>
 
@@ -6565,8 +6565,8 @@
 
 		<Starting_Forces> Pirates, Atzerri, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Atzerri, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Atzerri, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Atzerri, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Atzerri, Pirate_Swamp_Speeder_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Atzerri, Pirate_Pod_Walker_Team </Starting_Forces>
       	<Starting_Forces> Pirates, Atzerri, Pirate_Pod_Walker_Team </Starting_Forces>
@@ -6578,8 +6578,8 @@
 
 		<Starting_Forces> Pirates, Jabiim, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Jabiim, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Jabiim, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Jabiim, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Jabiim, Pirate_Swamp_Speeder_Team </Starting_Forces>
 
 
@@ -6590,11 +6590,11 @@
 
 		<Starting_Forces> Pirates, Bonadan, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Bonadan, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Bonadan, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Bonadan, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Bonadan, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
-		
+
+
 		<Starting_Forces> Pirates, Ryloth, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -6602,11 +6602,11 @@
 
 		<Starting_Forces> Pirates, Ryloth, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Ryloth, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Ryloth, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Ryloth, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Ryloth, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
-		
+
+
 		<Starting_Forces> Pirates, Byss, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -6614,10 +6614,10 @@
 
 		<Starting_Forces> Pirates, Byss, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>
-		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>		
-		<Starting_Forces> Pirates, Byss, Pirate_PLEX_Squad </Starting_Forces>	
+		<Starting_Forces> Pirates, Byss, Pirate_Soldier_Squad </Starting_Forces>
+		<Starting_Forces> Pirates, Byss, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Byss, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
+
    </Campaign>
 
 
@@ -7506,7 +7506,7 @@
 		<Starting_Forces> Empire, Coruscant, Mara_Jade_Team </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Imperial_Royal_Company </Starting_Forces>
 		<!-- Pirate Starting Forces -->
-		
+
                 <Starting_Credits> Pirates,  5000 </Starting_Credits>
 		<Starting_Tech_Level> Pirates, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirates, 4 </Max_Tech_Level>
@@ -7583,7 +7583,7 @@
 	  <Rebel_Story_Name>STORY_REBEL_AI_HEROES.xml</Rebel_Story_Name>
             <Empire_Story_Name>STORY_SANDBOX_DEMO_EMPIRE.xml</Empire_Story_Name>
             <Pirates_Story_Name>Story_Plots_Sandbox_10B_Pirates.xml</Empire_Story_Name>
-        
+
         <AI_Player_Control> Pirates, SandboxHuman  </AI_Player_Control>
             <AI_Player_Control> Empire, BasicEmpire </AI_Player_Control>
 		<AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
@@ -7627,7 +7627,7 @@
 		<Starting_Forces> Rebel, MonCalimari, Mon_Mothma_Team  </Starting_Forces>
 	      <Starting_Forces> Rebel, MonCalimari, R_Orbital_Jamming_Station </Starting_Forces>
 		<Starting_Forces> Rebel, MonCalimari, Rebel_Star_Base_1 </Starting_Forces>
-		
+
 
 		<!-- Rebel Land Forces -->
 		<Starting_Forces> Rebel, Hoth, R_Ground_Barracks </Starting_Forces>
@@ -7640,13 +7640,13 @@
 		<Starting_Forces> Rebel, Alderaan, Rebel_Light_Tank_Brigade </Starting_Forces>
 		<Starting_Forces> Rebel, Hoth, Rebel_Light_Tank_Brigade </Starting_Forces>
 		<Starting_Forces> Rebel, Hoth, Rebel_Artillery_Brigade </Starting_Forces>
-        
+
 		<!--Empire Starting Forces -->
 		<Starting_Credits> Empire,  5000 </Starting_Credits>
 		<Starting_Tech_Level> Empire, 3 </Starting_Tech_Level>
 		<Max_Tech_Level> Empire, 4 </Max_Tech_Level>
 
-		
+
 		<!-- Empire Space Forces -->
 		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant, Victory_Destroyer_E </Starting_Forces>
@@ -7658,7 +7658,7 @@
 		<Starting_Forces> Empire, Coruscant, Empire_Star_Base_1 </Starting_Forces>
 		<Starting_Forces> Empire, Tatooine,  Virago </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant,  Grand_Moff_Tarkin_Team </Starting_Forces>
-		
+
             <!-- Empire Land Forces -->
 		<Starting_Forces> Empire, Coruscant, E_Ground_Barracks </Starting_Forces>
             <Starting_Forces> Empire, Coruscant, E_Ground_Turbolaser_Tower </Starting_Forces>
@@ -7672,15 +7672,15 @@
 		<Starting_Forces> Empire, Coruscant, Imperial_Heavy_Assault_Company </Starting_Forces>
 		<Starting_Forces> Empire, Tatooine, Boba_Fett_Team </Starting_Forces>
             <Starting_Forces> Empire, Tatooine, Imperial_Stormtrooper_Squad </Starting_Forces>
-        
+
 		<!--Pirates Starting Forces-->
-		
+
 		<Starting_Credits> Pirates,  8000 </Starting_Credits>
 		<Starting_Tech_Level> Pirates, 4 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirates, 4 </Max_Tech_Level>
 
             <!-- Pirates Space Forces -->
-	      
+
             <Starting_Forces> Pirates, Corellia, InHand </Starting_Forces>
             <Starting_Forces> Pirates, Corellia, Count_Dooku_Team </Starting_Forces>
 	    <Starting_Forces> Pirates, Corellia, Jango_Fett_Team </Starting_Forces>
@@ -7692,11 +7692,11 @@
             <Starting_Forces> Pirates, Corellia, Shipyard </Starting_Forces>
             <Starting_Forces> Pirates, Corellia, Providence </Starting_Forces>
 	    <Starting_Forces> Pirates, Corellia, Providence </Starting_Forces>
-            
-		
-            
 
-		
+
+
+
+
 	</Campaign>
 
 <!-- ************************************************ -->
@@ -8599,7 +8599,7 @@
 		<Starting_Forces> Empire, Bonadan, E_Ground_Light_Vehicle_Factory  </Starting_Forces>
 		<Starting_Forces> Empire, Bonadan, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Bonadan, Imperial_Anti_Infantry_Brigade </Starting_Forces>
-	      
+
 		<Starting_Forces> Pirates, Utapau, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Utapau, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Utapau, IPV1_System_Patrol_Craft </Starting_Forces>
@@ -8615,7 +8615,7 @@
 		<Camera_Shift_X> 40.0 </Camera_Shift_X>
 		<Camera_Shift_Y> 0.0 </Camera_Shift_Y>
 		<Camera_Distance> 1200.0 </Camera_Distance>
-		<Locations> Galaxy_Core_Art_Model, Abregado_Rae, AetenII, AlzocIII, Alderaan, Anaxes, Atzerri, Bespin, Bestine, Bonadan, Bothawui, Byss, Carida, Corellia, Corulag, Coruscant, Dagobah, Dantooine, Endor, Eriadu, Fondor, Fresia, Geonosis, Hoth, Ilum, Jabiim, Kamino, Shola, Kashyyyk, Kessel, Korriban, Kuat, Manaan, MonCalimari, NalHutta, Naboo, Polus, Ryloth, sullust, Taris, Tatooine, Thyferra, VergessoAsteroids, Wayland, Yavin, Kamino, Hapes, Ralltiir, Brentaal, Trandosha, GarosIV, Rothana, Bakura, Tralus, Talus, Destrillion, Rendili, Neimodia, Serpidal, Lwhekk, Tynna, M'Haeli, Dubrillion, Klatooine, Mustafar, Rishi, Kiffu, Kiffex, Utapau, Mygeeto, Kothlis, Chandrilla, Duro</Locations> 
+		<Locations> Galaxy_Core_Art_Model, Abregado_Rae, AetenII, AlzocIII, Alderaan, Anaxes, Atzerri, Bespin, Bestine, Bonadan, Bothawui, Byss, Carida, Corellia, Corulag, Coruscant, Dagobah, Dantooine, Endor, Eriadu, Fondor, Fresia, Geonosis, Hoth, Ilum, Jabiim, Kamino, Shola, Kashyyyk, Kessel, Korriban, Kuat, Manaan, MonCalimari, NalHutta, Naboo, Polus, Ryloth, sullust, Taris, Tatooine, Thyferra, VergessoAsteroids, Wayland, Yavin, Kamino, Hapes, Ralltiir, Brentaal, Trandosha, GarosIV, Rothana, Bakura, Tralus, Talus, Destrillion, Rendili, Neimodia, Serpidal, Lwhekk, Tynna, M'Haeli, Dubrillion, Klatooine, Mustafar, Rishi, Kiffu, Kiffex, Utapau, Mygeeto, Kothlis, Chandrilla, Duro</Locations>
 		<Trade_Routes> Bestine_Eriadu, Bestine_Ilum, Byss_Kuat, Byss_Tatooine, Dantooine_Fresia, Dantooine_Manaan, Endor_Polus, Kashyyyk_Shola, Kashyyyk_Ryloth, Coruscant_Byss, Corulag_Coruscant, Anaxes_Coruscant, Coruscant_Alderaan, Dagobah_Hoth, Atzerri_Hoth, Bespin_Hoth, Bespin_Sullust, Dagobah_Naboo</Trade_Routes>
 		<Home_Location> Rebel, Naboo </Home_Location>
 		<Home_Location> Pirates, Geonosis </Home_Location>
@@ -8756,7 +8756,7 @@
 		<Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<!-- Pirate Starting Forces -->
-		
+
                 <Starting_Credits> Pirates,  6000 </Starting_Credits>
 		<Starting_Tech_Level> Pirates, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirates, 4 </Max_Tech_Level>
@@ -8765,7 +8765,7 @@
 		<Starting_Forces> Pirates, Abregado_Rae, Pirate_Asteroid_Base </Starting_Forces>
 		<Starting_Forces> Pirates, Abregado_Rae, Pirate_Fighter_Squadron </Starting_Forces>
 		<Starting_Forces> Pirates, Abregado_Rae, Pirate_Fighter_Squadron </Starting_Forces>
-		
+
 		<!-- Pirate Land Forces -->
 		<Starting_Forces> Pirates, Abregado_Rae, Pirate_Command_Center </Starting_Forces>
 		<Starting_Forces> Pirates, Abregado_Rae, Pirate_Soldier_Squad </Starting_Forces>
@@ -8800,7 +8800,7 @@
 		<Starting_Forces> Pirates, Anaxes, Pirate_PLEX_Squad </Starting_Forces>
 		<Starting_Forces> Pirates, Anaxes, Pirate_Swamp_Speeder_Team </Starting_Forces>
 		<Starting_Forces> Pirates, Anaxes, Pirate_Swamp_Speeder_Team </Starting_Forces>
-		
+
 		<Starting_Forces> Pirates, Geonosis, Jango_Fett_Team </Starting_Forces>
             <Starting_Forces> Pirates, Geonosis, InHand </Starting_Forces>
             <Starting_Forces> Pirates, Geonosis, Pirate_Asteroid_Base </Starting_Forces>
@@ -8832,7 +8832,7 @@
 		<Starting_Forces> Pirates, Ilum, IPV1_System_Patrol_Craft </Starting_Forces>
 		<Starting_Forces> Pirates, Ilum, IPV1_System_Patrol_Craft </Starting_Forces>
 		<Starting_Forces> Pirates, Ilum, Pirate_Frigate </Starting_Forces>
-		<Starting_Forces> Pirates, Ilum, Pirate_Frigate </Starting_Forces>		
+		<Starting_Forces> Pirates, Ilum, Pirate_Frigate </Starting_Forces>
 	</Campaign>
 
 
@@ -10474,7 +10474,7 @@
 		<Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		<!-- Pirate Starting Forces -->
-		
+
                 <Starting_Credits> Pirates,  6000 </Starting_Credits>
 		<Starting_Tech_Level> Pirates, 0 </Starting_Tech_Level>
 		<Max_Tech_Level> Pirates, 4 </Max_Tech_Level>
@@ -11042,4 +11042,3 @@
 	</Campaign>
 
 </Campaigns>
-
