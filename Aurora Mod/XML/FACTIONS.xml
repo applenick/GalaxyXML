@@ -72,7 +72,7 @@
 
 		<Space_Surrender_SFXEvent> RHD_Retreat_Started_Space </Space_Surrender_SFXEvent>
 
-		<Land_Retreat_Countdown_Seconds> 10.99 </Land_Retreat_Countdown_Seconds>
+		<Land_Retreat_Countdown_Seconds> 20.99 </Land_Retreat_Countdown_Seconds>
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor>
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor>
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
@@ -730,7 +730,7 @@
         <Tech_Tree_Dialog_Name>IDD_TECH_TREE_EMPIRE</Tech_Tree_Dialog_Name>
         <Helper_Icon_Name>i_empire_help_droid.tga</Helper_Icon_Name>
 
-		<Space_Retreat_Countdown_Seconds> 10.99 </Space_Retreat_Countdown_Seconds>
+		<Space_Retreat_Countdown_Seconds> 15.99 </Space_Retreat_Countdown_Seconds>
 		<Space_Retreat_Pursue_Max_Speed_Mod_Factor> 3.0 </Space_Retreat_Pursue_Max_Speed_Mod_Factor>
 		<Space_Retreat_Units_Damaged_Mod_Factor> 4.0 </Space_Retreat_Units_Damaged_Mod_Factor>
 		<Space_Retreat_Flight_Increment> 500.0 </Space_Retreat_Flight_Increment>
@@ -799,7 +799,7 @@
 		<Land_Skirmish_Unit_Cap_By_Player_Count>
 			0,4000,
 			1,4000,
-			8,500,
+			8,5000,
 		</Land_Skirmish_Unit_Cap_By_Player_Count>
 
 		<Debug_Ground_Structures>
@@ -1329,7 +1329,7 @@
 			General_Veers_Team,
 			Accuser_Star_Destroyer,
 			Anakin_Team,
-                        Darth_Team
+      Darth_Team
 		</Multiplayer_Campaign_Heroes>
 
 	</Faction>

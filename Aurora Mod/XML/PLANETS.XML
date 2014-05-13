@@ -24,12 +24,12 @@
 	</Planet>
 
 
-<!-- 
+<!--
 
 		NOTE: Planet Capture Bonus = (Max_Ground_Base + Max_Space_Base) x 2000
 
 		To that number add the following bonuses for planet type:
-		
+
 		Desert/Barren		-3000
 		Arctic				-2000
 		Swamp				-1000
@@ -84,7 +84,7 @@
 		<Describe_Weather>TEXT_PLANET_RALLTIIR_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_RALLTIIR_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_RALLTIIR_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_RALLTIIR_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_RALLTIIR_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ALDERAAN_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_AALDERAAN_ENCYC</Planet_Ability_Description>
@@ -148,7 +148,7 @@
 		<Describe_Weather>TEXT_PLANET_GAROSIV_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_GAROSIV_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_GAROSIV_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_GAROSIV_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_GAROSIV_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_GAROSIV_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GAROSIV_ENCYC</Planet_Ability_Description>
@@ -159,7 +159,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Abilities SubObjectList="Yes">
 			<Galaxy_Wide_Upgrade_Ability Name="Byss_Upgrade_Bonus">
@@ -211,7 +211,7 @@
 		<Describe_Weather>TEXT_PLANET_LWHEKK_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_LWHEKK_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_LWHEKK_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_LWHEKK_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_LWHEKK_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_LWHEKK_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_LWHEKK_GAROSIV_ENCYC</Planet_Ability_Description>
@@ -222,7 +222,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Abilities SubObjectList="Yes">
 			<Galaxy_Wide_Upgrade_Ability Name="Byss_Upgrade_Bonus">
@@ -274,7 +274,7 @@
 		<Describe_Weather>TEXT_PLANET_TRALUS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TRALUS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TRALUS_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TRALUS_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_TRALUS_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_TRALUS_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_TRALUS_ENCYC</Planet_Ability_Description>
@@ -285,7 +285,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
@@ -344,7 +344,7 @@
 		<Describe_Weather>TEXT_PLANET_TALUS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TALUS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TALUS_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TALUSINFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_TALUSINFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_TALUS_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_TALUS_ENCYC</Planet_Ability_Description>
@@ -355,7 +355,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
@@ -407,14 +407,14 @@
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
 		<Planet_Slice_Affinity_Types />
-		
+
 		<Describe_Population>TEXT_PLANET_DUBRILLION_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_DUBRILLION_INFO_WL</Describe_Wildlife>
 		<Describe_Terrain>TEXT_PLANET_DUBRILLION_INFO_TER</Describe_Terrain>
 		<Describe_Weather>TEXT_PLANET_DUBRILLION_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_DUBRILLION_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_DUBRILLION_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_DUBRILLION_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_DUBRILLION_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_DUBRILLION_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_DUBRILLION_MANAAN_HEAL</Planet_Ability_Description>
@@ -424,7 +424,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_heal_Infantry.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -463,14 +463,14 @@
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
 		<Planet_Slice_Affinity_Types />
-		
+
 		<Describe_Population>TEXT_PLANET_DESTRILLION_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_DESTRILLION_INFO_WL</Describe_Wildlife>
 		<Describe_Terrain>TEXT_PLANET_DESTRILLION_INFO_TER</Describe_Terrain>
 		<Describe_Weather>TEXT_PLANET_DESTRILLION_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_DESTRILLION_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_DESTRILLION_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_DESTRILLION_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_DESTRILLION_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_DESTRILLION_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_DESTRILLION_MANAAN_HEAL</Planet_Ability_Description>
@@ -480,7 +480,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_heal_Infantry.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -489,7 +489,7 @@
  		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NEIMODIA</Text_ID>
 		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
-		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>		
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
@@ -527,7 +527,7 @@
 		<Describe_Weather>TEXT_PLANET_NEIMODIA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NEIMODIA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NEIMODIA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NEIMODIA_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_NEIMODIA_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name> TEXT_PLANET_NEIMODIA_INFO_ADV </Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_NEIMODIA_ENCYC </Planet_Ability_Description>
@@ -598,7 +598,7 @@
 		<Describe_Weather>TEXT_PLANET_BAKURA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BAKURA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BAKURA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BAKURA_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_BAKURA_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BAKURA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BAKURA_ENCYC</Planet_Ability_Description>
@@ -609,11 +609,11 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
-	
+
 
 		<Abilities SubObjectList="No">
 			<Reduce_Production_Price_Ability Name="Carida_Infantry_Production_Boost">
@@ -656,10 +656,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Mustafar_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map>Mustafar_Land.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1110 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -671,7 +671,7 @@
 		<Describe_Weather>TEXT_PLANET_MUSTAFAR_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_MUSTAFAR_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_MUSTAFAR_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_MUSTAFAR_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_MUSTAFAR_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_MUSTAFAR_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MUSTAFAR_ENCYC</Planet_Ability_Description>
@@ -682,7 +682,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name></Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
 
@@ -740,7 +740,7 @@
 		<Describe_Weather>TEXT_PLANET_KIFFU_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KIFFU_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KIFFU_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KIFFU_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_KIFFU_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KIFFU_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_KIFFU_ENCYC</Planet_Ability_Description>
@@ -751,7 +751,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_desert.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Desert_Civilian_A, 150</Potential_Indigenous_Power>
@@ -811,7 +811,7 @@
 		<Describe_Weather>TEXT_PLANET_KIFFEX_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KIFFEX_ENCYC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KIFFEX_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KIFFEX_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_KIFFEX_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KIFFEX_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_KIFFEX_ENCYC</Planet_Ability_Description>
@@ -822,7 +822,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 150</Potential_Indigenous_Power>
@@ -881,7 +881,7 @@
 		<Describe_Weather>TEXT_PLANET_UTAPAU_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_UTAPAU_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_UTAPAU_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_UTAPAU_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_UTAPAU_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_UTAPAU_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_UTAPAU_ENCYC</Planet_Ability_Description>
@@ -892,7 +892,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_desert.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="No">
@@ -950,7 +950,7 @@
 		<Describe_Weather>TEXT_PLANET_MYGEETO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_MYGEETO_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_MYGEETO_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_MYGEETO_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_MYGEETO_INFO_HIS</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_MYGEETO_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -960,7 +960,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -969,7 +969,7 @@
  		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ABREGADORAE</Text_ID>
 		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
-		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>		
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
@@ -1007,7 +1007,7 @@
 		<Describe_Weather>TEXT_PLANET_ABREGADORAE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ABREGADORAE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ABREGADORAE_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ABREGADORAE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ABREGADORAE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name> TEXT_PLANET_ABREGADORAE_INFO_ADV_01 </Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_ABREGADORAE_ENCYC_01 </Planet_Ability_Description>
@@ -1071,14 +1071,14 @@
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
 		<Planet_Slice_Affinity_Types>Rebel_Ground_Mining_Facility</Planet_Slice_Affinity_Types>
 		<Planet_Is_Mining_Colony>Yes</Planet_Is_Mining_Colony>
-		
+
 		<Describe_Population>TEXT_PLANET_AETENII_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_AETENII_INFO_WL</Describe_Wildlife>
 		<Describe_Terrain>TEXT_PLANET_AETENII_INFO_TER</Describe_Terrain>
 		<Describe_Weather>TEXT_PLANET_AETENII_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_AETENII_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_AETENII_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_AETENII_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_BONADAN_ENCYC_01 </Planet_Ability_Description>
@@ -1089,7 +1089,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_desert.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -1136,7 +1136,7 @@
 		<Describe_Weather>TEXT_PLANET_ALDERAAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ALDERAAN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ALDERAAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ALDERAAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ALDERAAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ALDERAAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_AALDERAAN_ENCYC_01</Planet_Ability_Description>
@@ -1202,7 +1202,7 @@
 		<Describe_Weather>TEXT_PLANET_ALZOCIII_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ALZOCIII_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ALZOCIII_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ALZOCIII_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -1212,7 +1212,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -1259,7 +1259,7 @@
 		<Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
@@ -1270,7 +1270,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
 
@@ -1329,7 +1329,7 @@
 		<Describe_Weather>TEXT_PLANET_ATZERRI_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ATZERRI_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ATZERRI_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ATZERRI_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ATZERRI_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ATZERRI_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ATZERRI_ENCYC_01</Planet_Ability_Description>
@@ -1340,7 +1340,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 50</Potential_Indigenous_Power>
 
@@ -1388,7 +1388,7 @@
 		<Describe_Weather>TEXT_PLANET_BESPIN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BESPIN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BESPIN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BESPIN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_BONADAN_ENCYC_01 </Planet_Ability_Description>
@@ -1399,7 +1399,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -1446,7 +1446,7 @@
 		<Describe_Weather>TEXT_PLANET_BESTINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BESTINE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BESTINE_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BESTINE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BESTINE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BESTINE_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BESTINE_ENCYC_01</Planet_Ability_Description>
@@ -1457,7 +1457,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -1513,7 +1513,7 @@
 		<Describe_Weather>TEXT_PLANET_BONADAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BONADAN_INFO_ADV</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BONADAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BONADAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -1524,7 +1524,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-				
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -1598,7 +1598,7 @@
 		<Describe_Weather>TEXT_PLANET_BOTHAWUI_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BOTHAWUI_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BOTHAWUI_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BOTHAWUI_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BOTHAWUI_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BOTHAWUI_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BOTHAWUI_ENCYC_01</Planet_Ability_Description>
@@ -1609,7 +1609,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_spy_network.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_bothan.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -1655,7 +1655,7 @@
 		<Describe_Weather>TEXT_PLANET_BYSS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BYSS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BYSS_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BYSS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BYSS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BYSS_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BYSS_ENCYC_01</Planet_Ability_Description>
@@ -1666,7 +1666,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 100</Potential_Indigenous_Power>
@@ -1721,7 +1721,7 @@
 		<Describe_Weather>TEXT_PLANET_CORUSCANT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CARIDA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_CARIDA_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CARIDA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CARIDA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_CARIDA_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_CARIDA_ENCYC_01</Planet_Ability_Description>
@@ -1732,7 +1732,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
@@ -1791,7 +1791,7 @@
 		<Describe_Weather>TEXT_PLANET_CORELLIA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CORELLIA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_CORELLIA_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CORELLIA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CORELLIA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_CORELLIA_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_CORELLIA_ENCYC_01</Planet_Ability_Description>
@@ -1802,7 +1802,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
@@ -1860,7 +1860,7 @@
 		<Describe_Weather>TEXT_PLANET_CORULAG_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CORULAG_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_CORULAG_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CORULAG_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CORULAG_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_CORULAG_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_CORULAG_ENCYC_01</Planet_Ability_Description>
@@ -1871,7 +1871,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 450</Potential_Indigenous_Power>
@@ -1929,7 +1929,7 @@
 		<Describe_Weather>TEXT_PLANET_CORUSCANT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CORUSCANT_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CORUSCANT_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CORUSCANT_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -1940,7 +1940,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>50</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -1989,7 +1989,7 @@
 		<Describe_Weather>TEXT_PLANET_DAGOBAH_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_DAGOBAH_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_DAGOBAH_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_DAGOBAH_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_DAGOBAH_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_DAGOBAH_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -1999,7 +1999,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -2046,7 +2046,7 @@
 		<Describe_Weather>TEXT_PLANET_DANTOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_DANTOOINE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_DAGOBAH_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_DANTOOINE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_DANTOOINE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_DAGOBAH_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -2057,11 +2057,11 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
-		
+
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
-		
+
 	</Planet>
 
 
@@ -2106,7 +2106,7 @@
 		<Describe_Weather>TEXT_PLANET_ENDOR_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ENDOR_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ENDOR_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ENDOR_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ENDOR_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ENDOR_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ENDOR_ENCYC_01</Planet_Ability_Description>
@@ -2117,9 +2117,9 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_light_armor_plating.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_ewok.tga</Native_Icon_Name>
-		
+
 		<Potential_Indigenous_Power>Ewok_Hunter, 1600</Potential_Indigenous_Power>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -2172,7 +2172,7 @@
 		<Describe_Weather>TEXT_PLANET_ERIADU_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ERIADU_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ERIADU_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ERIADU_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ERIADU_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ERIADU_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ERIADU_ENCYC_01</Planet_Ability_Description>
@@ -2183,7 +2183,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 150</Potential_Indigenous_Power>
@@ -2241,7 +2241,7 @@
 		<Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_FONDOR_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_FONDOR_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_FONDOR_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_FONDOR_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_FONDOR_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_FONDOR_ENCYC_01</Planet_Ability_Description>
@@ -2252,7 +2252,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_WIND</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 200</Potential_Indigenous_Power>
@@ -2311,7 +2311,7 @@
 		<Describe_Weather>TEXT_PLANET_FRESIA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_FRESIA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_FRESIA_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_FRESIA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_FRESIA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_FRESIA_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_FRESIA_ENCYC_01</Planet_Ability_Description>
@@ -2322,7 +2322,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
@@ -2380,7 +2380,7 @@
 		<Describe_Weather>TEXT_PLANET_GEONOSIS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_GEONOSIS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_GEONOSIS_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_GEONOSIS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_GEONOSIS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_GEONOSIS_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GEONOSIS_ENCYC_01</Planet_Ability_Description>
@@ -2391,11 +2391,11 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_geonosian.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Geonosian, 1200</Potential_Indigenous_Power>
-		
+
 		<Abilities SubObjectList="Yes">
 			<Reduce_Production_Price_Ability Name="Geonosis_MPTL_Production_Boost">
 				<Unit_Strength_Category />
@@ -2450,7 +2450,7 @@
 		<Describe_Weather>TEXT_PLANET_HOTH_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_HOTH_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_HOTH_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_HOTH_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_HOTH_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_HOTH_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -2460,7 +2460,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Wampa, 2000</Potential_Indigenous_Power>
@@ -2508,7 +2508,7 @@
 		<Describe_Weather>TEXT_PLANET_ILUM_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ILUM_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ILUM_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ILUM_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ILUM_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ILUM_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ILUM_ENCYC_01</Planet_Ability_Description>
@@ -2518,7 +2518,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -2563,13 +2563,13 @@
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
 		<Space_Tactical_Map>Jabiim_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Jabiim_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1000 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>1</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
 		<Planet_Slice_Affinity_Types />
 		<Planet_Restricted_Unit_Categories />
-		<Planet_Restricted_Unit_Types> 
+		<Planet_Restricted_Unit_Types>
 			Imperial_Armor_Group, Imperial_Light_Scout_Squad, Rebel_Light_Tank_Brigade, Rebel_Speeder_Wing,
 			M1_Repulsor_Tank, Scout_Trooper, T2B_Tank, Snowspeeder, Skiff
 		</Planet_Restricted_Unit_Types>
@@ -2580,7 +2580,7 @@
 		<Describe_Weather>TEXT_PLANET_JABIIM_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_JABIIM_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_JABIIM_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_JABIIM_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_JABIIM_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_JABIIM_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_JABIIM_RESTRICTION</Planet_Ability_Description>
@@ -2591,7 +2591,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_restricted_units.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
@@ -2640,14 +2640,14 @@
 		<Describe_Weather>TEXT_PLANET_KAMINO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KAMINO_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KAMINO_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KAMINO_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KAMINO_INFO_HIS_01</Describe_History>
 
 		<Encyclopedia_Text> TEXT_PLANET_KAMINO_ENCYC </Encyclopedia_Text>
 		<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_weather_rain.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -2704,7 +2704,7 @@
 		<Describe_Weather>TEXT_PLANET_KASHYYYK_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KASHYYYK_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KASHYYYK_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KASHYYYK_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KASHYYYK_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KASHYYYK_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -2717,7 +2717,7 @@
 		<Native_Icon_Name>load_wookie.tga</Native_Icon_Name>
 
 		<Potential_Indigenous_Power>Wookie_Warrior, 800</Potential_Indigenous_Power>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -2762,7 +2762,7 @@
 		<Describe_Weather>TEXT_PLANET_KESSEL_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KESSEL_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KESSEL_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KESSEL_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -2773,7 +2773,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -2819,7 +2819,7 @@
 		<Describe_Weather>TEXT_PLANET_KORRIBAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KORRIBAN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KORRIBAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KORRIBAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KORRIBAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KORRIBAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_KORRIBAN_ENCYC_01</Planet_Ability_Description>
@@ -2830,7 +2830,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_desert.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Desert_Civilian_A, 150</Potential_Indigenous_Power>
@@ -2875,10 +2875,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Kuat_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Kuat_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1800 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>4</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -2890,7 +2890,7 @@
 		<Describe_Weather>TEXT_PLANET_KUAT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KUAT_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KUAT_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KUAT_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KUAT_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KUAT_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_KUAT_ENCYC_01</Planet_Ability_Description>
@@ -2901,7 +2901,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 50</Potential_Indigenous_Power>
@@ -2960,7 +2960,7 @@
 		<Describe_Weather>TEXT_PLANET_MANAAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_MANAAN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_MANAAN_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_MANAAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_MANAAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_MANAAN_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MANAAN_HEAL</Planet_Ability_Description>
@@ -2970,7 +2970,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_heal_Infantry.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -3003,10 +3003,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>MonCalamari_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_MonCalimari_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1600 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -3018,7 +3018,7 @@
 		<Describe_Weather>TEXT_PLANET_MONCALAMARI_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_MONCALAMARI_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_MONCALAMARI_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_MONCALAMARI_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_MONCALAMARI_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_MONCALAMARI_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MONCALAMARI_ENCYC_01</Planet_Ability_Description>
@@ -3029,7 +3029,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_mon_cal.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Mon_Calamari_Civilian, 400</Potential_Indigenous_Power>
@@ -3074,10 +3074,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Naboo_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Naboo_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -3088,7 +3088,7 @@
 		<Describe_Weather>TEXT_PLANET_NABOO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NABOO_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NABOO_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NABOO_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_NABOO_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_NABOO_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_NABOO_ENCYC_01</Planet_Ability_Description>
@@ -3099,7 +3099,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_enhanced_t4b_damage.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_gungan.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Gungan_Warrior, 120</Potential_Indigenous_Power>
@@ -3142,10 +3142,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>NalHutta_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_NalHutta_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2400 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -3157,7 +3157,7 @@
 		<Describe_Weather>TEXT_PLANET_NALHUTTA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NALHUTTA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NALHUTTA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_NALHUTTA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ATZERRI_ENCYC_01</Planet_Ability_Description>
@@ -3168,13 +3168,13 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_hutt.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Hutt_Civilian, 360</Potential_Indigenous_Power>
 
 	</Planet>
-	
+
 	<Planet Name="NalHutta_Tutorial_4">
  		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NALHUTTA</Text_ID>
@@ -3203,10 +3203,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_NalHutta_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_NalHutta_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2400 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -3217,7 +3217,7 @@
 		<Describe_Weather>TEXT_PLANET_NALHUTTA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NALHUTTA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NALHUTTA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_NALHUTTA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ATZERRI_ENCYC_01</Planet_Ability_Description>
@@ -3228,7 +3228,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_hutt.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -3264,10 +3264,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Polus_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Polus_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -3278,7 +3278,7 @@
 		<Describe_Weather>TEXT_PLANET_POLUS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_POLUS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_POLUS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_POLUS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -3288,7 +3288,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -3321,10 +3321,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Ryloth_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Ryloth_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -3335,7 +3335,7 @@
 		<Describe_Weather>TEXT_PLANET_RYLOTH_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_RYLOTH_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_RYLOTH_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_RYLOTH_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_RYLOTH_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_RYLOTH_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_RYLOTH_ENCYC_01</Planet_Ability_Description>
@@ -3346,7 +3346,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_WIND</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_stamina_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_twilek.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Twilek_Female, 300</Potential_Indigenous_Power>
@@ -3387,10 +3387,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Shola_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Shola_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -3403,7 +3403,7 @@
 		<Describe_Weather>TEXT_PLANET_SHOLA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_SHOLA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_SHOLA_INFO_TAC</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_SHOLA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_SHOLA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_SHOLA_INFO_TAC</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_SHOLA_ENCYC</Planet_Ability_Description>
@@ -3414,7 +3414,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_auto_damage.tga</Planet_Ability_Icon>
 		<Native_Icon_Name />
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -3438,7 +3438,7 @@
 		<Camera_Aligned>yes</Camera_Aligned>
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Terrain>Volcanic</Terrain>
-		<Planet_Credit_Value>60</Planet_Credit_Value>
+		<Planet_Credit_Value>60000</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-90.0, -80.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
@@ -3447,10 +3447,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Sullust_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Sullust_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1700 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -3462,7 +3462,7 @@
 		<Describe_Weather>TEXT_PLANET_SULLUST_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_SULLUST_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_SULLUST_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_SULLUST_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_SULLUST_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_SULLUST_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_SULLUST_ENCYC_01</Planet_Ability_Description>
@@ -3473,8 +3473,8 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_sullustian.tga</Native_Icon_Name>
-		
-		<Additional_Population_Capacity>5</Additional_Population_Capacity>
+
+		<Additional_Population_Capacity>500</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Sullustan_Civilian, 100</Potential_Indigenous_Power>
 
@@ -3518,10 +3518,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Taris_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Taris_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2400 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -3533,7 +3533,7 @@
 		<Describe_Weather>TEXT_PLANET_TARIS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TARIS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TARIS_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TARIS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_TARIS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_TARIS_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_TARIS_ENCYC_01</Planet_Ability_Description>
@@ -3544,7 +3544,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 300</Potential_Indigenous_Power>
@@ -3589,21 +3589,21 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Tatooine_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Tatooine_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>0</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
-		
+
 		<Describe_Population>TEXT_PLANET_TATOOINE_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_TATOOINE_INFO_WL</Describe_Wildlife>
 		<Describe_Terrain>TEXT_PLANET_TATOOINE_INFO_TER</Describe_Terrain>
 		<Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TATOOINE_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TATOOINE_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_TATOOINE_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_TATOOINE_ENCYC_01</Planet_Ability_Description>
@@ -3619,7 +3619,7 @@
 		<Potential_Indigenous_Power>Desert_Civilian_A, 200</Potential_Indigenous_Power>
 		<Potential_Indigenous_Power>Rancor, 1000</Potential_Indigenous_Power>
 		<Potential_Indigenous_Power>Sand_Person_Sniper_A, 50</Potential_Indigenous_Power>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -3658,10 +3658,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Thyferra_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Thyferra_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>3</Planet_Tech_Availability_Rating>
@@ -3672,7 +3672,7 @@
 		<Describe_Weather>TEXT_PLANET_THYFERRA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_THYFERRA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_THYFERRA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_THYFERRA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_THYFERRA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_THYFERRA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MANAAN_HEAL</Planet_Ability_Description>
@@ -3683,7 +3683,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_heal_Infantry.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -3717,7 +3717,7 @@
 		<Force_Strength>0.0</Force_Strength>
 
 		<!-- Unique case: Already asteroids, so Death Star can't blow them up like other planets -->
-		<Planet_Is_Destroyable_By_TSW> No </Planet_Is_Destroyable_By_TSW> 
+		<Planet_Is_Destroyable_By_TSW> No </Planet_Is_Destroyable_By_TSW>
 
 		<Planet_Surface_Accessible> No </Planet_Surface_Accessible>
 		<!-- If you abandon this planet, you will not retain political control -->
@@ -3736,7 +3736,7 @@
 		<Describe_Weather>TEXT_PLANET_VERGESSO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_VERGESSO_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_VERGESSO_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_VERGESSO_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_VERGESSO_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_VERGESSO_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_VERGESSO_ENCYC_01</Planet_Ability_Description>
@@ -3747,7 +3747,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_weapons.tga</Planet_Ability_Icon>
 
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -3786,10 +3786,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>Wayland_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Wayland_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -3801,7 +3801,7 @@
 		<Describe_Weather>TEXT_PLANET_CORUSCANT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_WAYLAND_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_WAYLAND_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_WAYLAND_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_WAYLAND_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_WAYLAND_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_WAYLAND_ENCYC_01</Planet_Ability_Description>
@@ -3812,7 +3812,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_treads.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 200</Potential_Indigenous_Power>
@@ -3853,10 +3853,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>YavinIV_Space.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Yavin_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1700 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -3868,7 +3868,7 @@
 		<Describe_Weather>TEXT_PLANET_YAVIN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_YAVIN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_YAVIN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_YAVIN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_YAVIN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_YAVIN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_YAVIN_ENCYC_01</Planet_Ability_Description>
@@ -3879,7 +3879,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_enhanced_fighter_shields.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
@@ -3926,7 +3926,7 @@
 
 		<Space_Tactical_Map>_Space_Planet_Tatooine.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_E3_TAT4.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>0</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
@@ -3939,7 +3939,7 @@
 		<Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TATOOINE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TATOOINE_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS</Describe_History>
 
 		<Encyclopedia_Text> TEXT_PLANET_TATOOINE_ENCYC </Encyclopedia_Text>
 

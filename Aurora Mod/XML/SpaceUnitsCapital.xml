@@ -27,7 +27,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -73,7 +73,7 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_Calamari_Cruiser_Weapon_FL, HP_Calamari_Cruiser_Weapon_FR, HP_Calamari_Cruiser_Weapon_BL, HP_Calamari_Cruiser_Weapon_BR, HP_Calamari_Cruiser_Weapon_ML, HP_Calamari_Cruiser_Weapon_MR, HP_Calamari_Cruiser_Engines
 		</HardPoints>
 
@@ -126,12 +126,12 @@
 		<Death_SFXEvent_Start_Die>Unit_Calamari_Death_SFX</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -151,12 +151,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_MON_CALAMARI_CRUISER TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -167,7 +167,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -198,7 +198,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -244,7 +244,7 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			MC40a, MC40b, MC40c, MC40d, MC40e, MC40f, MC40g
 		</HardPoints>
 
@@ -297,12 +297,12 @@
 		<Death_SFXEvent_Start_Die>Unit_Calamari_Death_SFX</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -322,12 +322,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text>TEXT_TOOLTIP_MC40</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL3 </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -338,7 +338,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -370,7 +370,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -416,8 +416,8 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
-			HP_Bulwark_Engines, HP_Bulwark_Engines2, HP_Weapon_Bulm, HP_Weapon_Bula, HP_Weapon_Bulb, HP_Weapon_Bulc, Buld1, Buld2, HP_Weapon_Bulg1, HP_Weapon_Bulg, Buld3 
+		<HardPoints>
+			HP_Bulwark_Engines, HP_Bulwark_Engines2, HP_Weapon_Bulm, HP_Weapon_Bula, HP_Weapon_Bulb, HP_Weapon_Bulc, Buld1, Buld2, HP_Weapon_Bulg1, HP_Weapon_Bulg, Buld3
 		</HardPoints>
 
 		<Icon_Name>bulwark.tga</Icon_Name>
@@ -470,12 +470,12 @@
 		<Death_SFXEvent_Start_Die>Unit_Calamari_Death_SFX</Death_SFXEvent_Start_Die>
                   <Build_Limit_Current_Per_Player>3</Build_Limit_Current_Per_Player>
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -495,12 +495,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_BULWARK_CRUISER TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -511,7 +511,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -542,7 +542,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -588,7 +588,7 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_Generator, HP_Generator2, HP_Engines, HP_Fighter_Bay, HP_Fighter_Bay2, HP_Weapon_BL27, HP_Weapon_BL28, HP_Weapon_BL30, Core90, HP_Weapon_BL31, HP_Weapon_BL32, HP_Weapon_BL33, Core92, Core93, Core96, Core97, Core98, Core100, Core101
 		</HardPoints>
 
@@ -599,12 +599,12 @@
 		<GUI_Velocity>45</GUI_Velocity>
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-                
+
                 <Starting_Spawned_Units_Tech_0>T_Wing_Squadron, 3</Starting_Spawned_Units_Tech_0>
                 <Starting_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 5</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-                <Reserve_Spawned_Units_Tech_0>T_Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+                <Reserve_Spawned_Units_Tech_0>T_Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>
 
 
 
@@ -622,7 +622,7 @@
 		<SFXEvent_Move_Into_Asteroid_Field> CIS_Space_Nebula </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> CIS_Space_Nebula </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
-		
+
 
 		<SFXEvent_Engine_Idle_Loop> Unit_Calamari_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Calamari_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
@@ -631,12 +631,12 @@
 		<Death_SFXEvent_Start_Die>CIS_Space_Dead</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -656,12 +656,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_MON_CALAMARI_CRUISER88 TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -672,7 +672,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -705,7 +705,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -751,7 +751,7 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_Generator222, HP_Generator22, HP_Engines2, HP_Fighter_Bay222, HP_Fighter_Bay22, HP_Weapon_BL272, HP_Weapon_BL282, HP_Weapon_BL302, Core902, HP_Weapon_BL312, HP_Weapon_BL322, HP_Weapon_BL332, Core922, Core932, Core962, Core972, Core982, Core1002, Core1012
 		</HardPoints>
 
@@ -766,8 +766,8 @@
                 <Starting_Spawned_Units_Tech_0>T_Wing_Squadron, 8</Starting_Spawned_Units_Tech_0>
                 <Starting_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 10</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
-                <Reserve_Spawned_Units_Tech_0>T_Wing_Squadron, 5</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0>
+                <Reserve_Spawned_Units_Tech_0>T_Wing_Squadron, 5</Reserve_Spawned_Units_Tech_0>
                 <Starting_Spawned_Units_Tech_0>TE-Wing_Squadron, 1</Starting_Spawned_Units_Tech_0>
 
 
@@ -782,11 +782,11 @@
 		<SFXEvent_Attack>InHand_Attack</SFXEvent_Attack>
 		<SFXEvent_Guard>InHand_Fleet_Guard</SFXEvent_Guard>
 		<SFXEvent_Stop>Unit_Stop_Assault_Frigate</SFXEvent_Stop>
-		
-		
+
+
 		<SFXEvent_Move_Into_Nebula> InHand_Fleet_Nebula </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
-		
+
 
 		<SFXEvent_Engine_Idle_Loop> Unit_Calamari_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Calamari_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
@@ -795,12 +795,12 @@
 		<Death_SFXEvent_Start_Die>InHand_Fleet_Dead</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -820,12 +820,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
               <Abilities SubObjectList="Yes">
 
 			<Galactic_Stealth_Ability Name="Mara_Jade_Galactic_Stealth">
@@ -854,7 +854,7 @@
 				<Movement_Speed_Bonus_Percentage>0.30</Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
-			
+
 			<Reduce_Production_Price_Ability Name="Mothma_Reduce_Production_Price">
 				<Applicable_Unit_Categories>All</Applicable_Unit_Categories>
 				<Applicable_Unit_Types />
@@ -862,7 +862,7 @@
 				<Stacking_Category>0</Stacking_Category>
 			</Reduce_Production_Price_Ability>
                 </Abilities>
-                
+
                   <Encyclopedia_Text> TEXT_TOOLTIP_MON_CALAMARI_INVIS </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FLAG </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -873,7 +873,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -905,7 +905,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -951,8 +951,8 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
-			HP_Core_EnginesTE, HP_Core_EnginesTE2, HP_GeneratorTE, HP_Weapon_BLTE999, HP_Weapon_BLTE9999, HP_Fighter_BayTE1, HP_Fighter_BayTE2, CoreTE88, CoreTE888, CoreTE53, CoreTE54, CoreTE55, CoreTE56, CoreTE215, CoreTE216, HP_Weapon_BLTE99998, HP_Weapon_BLTE99998, HP_Weapon_BLTE0, HP_Weapon_BLTE00, HP_Weapon_BLTE000, HP_Weapon_BLTE0000, HP_Core_Tractor_BeamTE 
+		<HardPoints>
+			HP_Core_EnginesTE, HP_Core_EnginesTE2, HP_GeneratorTE, HP_Weapon_BLTE999, HP_Weapon_BLTE9999, HP_Fighter_BayTE1, HP_Fighter_BayTE2, CoreTE88, CoreTE888, CoreTE53, CoreTE54, CoreTE55, CoreTE56, CoreTE215, CoreTE216, HP_Weapon_BLTE99998, HP_Weapon_BLTE99998, HP_Weapon_BLTE0, HP_Weapon_BLTE00, HP_Weapon_BLTE000, HP_Weapon_BLTE0000, HP_Core_Tractor_BeamTE
 		</HardPoints>
 
 		<Icon_Name>i_button_imperator.tga</Icon_Name>
@@ -962,11 +962,11 @@
 		<GUI_Velocity>45</GUI_Velocity>
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-                
-                
+
+
             <Starting_Spawned_Units_Tech_0>TE-Wing_Squadron, 5</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TE-Wing_Squadron, 10</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TE-Wing_Squadron, 10</Reserve_Spawned_Units_Tech_0>
 
 
 		<SFXEvent_Build_Started>RHD_Build_Vehicle</SFXEvent_Build_Started>
@@ -983,7 +983,7 @@
 		<SFXEvent_Move_Into_Asteroid_Field> CIS_Space_Nebula </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> CIS_Space_Nebula </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
-		
+
 
 		<SFXEvent_Engine_Idle_Loop> Unit_Calamari_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Calamari_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
@@ -992,12 +992,12 @@
 		<Death_SFXEvent_Start_Die>CIS_Space_Dead</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -1017,12 +1017,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_TECHNO_CRUISER TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -1033,7 +1033,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -1065,7 +1065,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -1110,7 +1110,7 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_Core_EnginesG, HP_GeneratorG, HP_Fighter_BayG, HP_Fighter_BayGG, HP_Weapon_BLG10, HP_Weapon_BLG11, HP_Weapon_BLG12, HP_Weapon_BLG13, CoreG19
 		</HardPoints>
 
@@ -1121,12 +1121,12 @@
 		<GUI_Velocity>45</GUI_Velocity>
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-                
+
                  <Starting_Spawned_Units_Tech_0>TE-Wing_Squadron, 1</Starting_Spawned_Units_Tech_0>
                 <Starting_Spawned_Units_Tech_0>G-Wing_Squadron, 5</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>G-Wing_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
-                 
+		<Reserve_Spawned_Units_Tech_0>G-Wing_Squadron, 3</Reserve_Spawned_Units_Tech_0>
+
 
 
 
@@ -1144,7 +1144,7 @@
 		<SFXEvent_Move_Into_Asteroid_Field> CIS_Space_Nebula </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> CIS_Space_Nebula </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
-		
+
 
 		<SFXEvent_Engine_Idle_Loop> Unit_Calamari_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Calamari_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
@@ -1153,12 +1153,12 @@
 		<Death_SFXEvent_Start_Die>CIS_Space_Dead</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -1178,12 +1178,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_MON_CALAMARI_CRUISER888 </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -1194,7 +1194,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>3</Population_Value>
 	</SpaceUnit>
@@ -1226,7 +1226,7 @@
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -1271,7 +1271,7 @@
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_GeneratorR, HP_Core_EnginesR, HP_Weapon_BLR10, CoreR, CoreR21, CoreR88, HP_Weapon_BLR99, HP_Weapon_BLR999
 		</HardPoints>
 
@@ -1282,10 +1282,10 @@
 		<GUI_Velocity>45</GUI_Velocity>
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-                
-                
-                
-                 
+
+
+
+
 
 
 
@@ -1303,7 +1303,7 @@
 		<SFXEvent_Move_Into_Asteroid_Field> CIS_Space_Nebula </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> CIS_Space_Nebula </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
-		
+
 
 		<SFXEvent_Engine_Idle_Loop> Unit_Calamari_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Calamari_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
@@ -1312,12 +1312,12 @@
 		<Death_SFXEvent_Start_Die>CIS_Space_Dead</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -1337,12 +1337,12 @@
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text>TEXT_TOOLTIP_RECUSANT_CRUISER</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -1353,7 +1353,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -1386,7 +1386,7 @@
 		<Space_Model_Name>EV_StarDestroyer.ALO</Space_Model_Name>
 
 		<Ranking_In_Category>5</Ranking_In_Category>
-	
+
 	   <GUI_Bracket_Height>500</GUI_Bracket_Height>
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 
@@ -1397,7 +1397,7 @@
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -1411,7 +1411,7 @@
 		<Bank_Turn_Angle>5</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -1441,19 +1441,19 @@
 		<Build_Time_Seconds>90</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
-		
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
                 <Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
                 <Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0>
-		
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
-		
+
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Death_Explosions>Large_Explosion_Space_Empire</Death_Explosions>
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
@@ -1462,7 +1462,7 @@
 		<Space_FOW_Reveal_Range>1200.0</Space_FOW_Reveal_Range>
 		<Targeting_Max_Attack_Distance>2000.0</Targeting_Max_Attack_Distance>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL, HP_Star_Destroyer_Weapon_BR,
 			HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR, HP_Star_Destroyer_Shield_Generator, HP_Star_Destroyer_Engines,
 			HP_Star_Destroyer_Tractor_Beam, HP_Star_Destroyer_Fighter_Bay
@@ -1501,7 +1501,7 @@
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENABLE_SPECIAL_ABILITY, </SFXEvent_Hardpoint_Destroyed>
 
 		<Death_SFXEvent_Start_Die>Unit_Star_Destroyer_Death_SFX</Death_SFXEvent_Start_Die>
-         
+
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Build_Complete>Unit_Complete_Star_Destroyer</SFXEvent_Build_Complete>
@@ -1519,7 +1519,7 @@
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-		 
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -1549,14 +1549,14 @@
 	            <Activation_Style> User_Input </Activation_Style>
 	            <Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
 	            <Applicable_Unit_Types>Millennium_Falcon</Applicable_Unit_Types>
-	            
+
 	            <Activation_Min_Range>10</Activation_Min_Range>
 	            <Activation_Max_Range>1000</Activation_Max_Range>
 
 
 	            <!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 	            <Target_Speed_Decrease_Percent>0.75</Target_Speed_Decrease_Percent>
-	            <Stacking_Category>0</Stacking_Category>            
+	            <Stacking_Category>0</Stacking_Category>
 	      </Tractor_Beam_Attack_Ability>
 
 	   </Abilities>
@@ -1571,7 +1571,7 @@
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -1581,15 +1581,15 @@
 		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
 		<Tech_Level>4</Tech_Level>
 
-		<HardPoints> 
-			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL, 
-			HP_Star_Destroyer_Weapon_BR, HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR, 
+		<HardPoints>
+			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL,
+			HP_Star_Destroyer_Weapon_BR, HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR,
 			HP_Star_Destroyer_Shield_Generator, HP_Star_Destroyer_Engines,
 			HP_Star_Destroyer_Tractor_Beam, HP_Star_Destroyer_Fighter_Bay
 		</HardPoints>
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
-	
+
 
 
 	<SpaceUnit Name="Star_Destroyer_Death_Clone">
@@ -1613,7 +1613,7 @@
 
 	<SpaceUnit Name="Star_Destroyer_Tractor_Fighters">
 		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
-		
+
 		<!-- Non-Hero unit abilities description -->
 	   <Unit_Abilities_Data SubObjectList="Yes">
 	      <!-- Primary ability -->
@@ -1621,7 +1621,7 @@
 	            <Type>TRACTOR_BEAM</Type>
 	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.8f</Mod_Multiplier>
 	            <GUI_Activated_Ability_Name> SD_Tractor_Beam_Attack_Ability </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-	         
+
 	            <Recharge_Seconds>20</Recharge_Seconds>
 	      </Unit_Ability>
 	   </Unit_Abilities_Data>
@@ -1632,14 +1632,14 @@
 	            <Activation_Style> User_Input </Activation_Style>
 	            <Applicable_Unit_Categories>Fighter</Applicable_Unit_Categories>
 	            <Applicable_Unit_Types />
-	            
+
 	            <Activation_Min_Range>10</Activation_Min_Range>
 	            <Activation_Max_Range>2000</Activation_Max_Range>
 
 
 	            <!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 	            <Target_Speed_Decrease_Percent>.83</Target_Speed_Decrease_Percent>
-	            <Stacking_Category>0</Stacking_Category>            
+	            <Stacking_Category>0</Stacking_Category>
 	      </Tractor_Beam_Attack_Ability>
 	   </Abilities>
 		<!-- <Max_Speed>1.0</Max_Speed> -->
@@ -1706,12 +1706,12 @@
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 
-		<Max_Speed>1.5</Max_Speed>
+		<Max_Speed>5.5</Max_Speed>
 		<Max_Rate_Of_Turn>0.5</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Capital </Space_Layer>
@@ -1720,48 +1720,48 @@
 		<Bank_Turn_Angle>15</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
-		<Hyperspace_Speed>1</Hyperspace_Speed>
+		<Hyperspace_Speed>9</Hyperspace_Speed>
 		<Maintenance_Cost>0.5</Maintenance_Cost>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>4</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>5</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures />
 		<Required_Planets>MonCalimari, Kuat, Fondor, Sullust</Required_Planets>
 		<Damage>250</Damage>
-		<Autoresolve_Health>20000</Autoresolve_Health>
-		<Shield_Points>15000</Shield_Points>
+		<Autoresolve_Health>2000000</Autoresolve_Health>
+		<Shield_Points>1500000</Shield_Points>
 		<Tactical_Health>20000</Tactical_Health> <!-- was 6000 -->
-		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
-		<Energy_Capacity>14000</Energy_Capacity>
-		<Energy_Refresh_Rate>1000</Energy_Refresh_Rate>
+		<Shield_Refresh_Rate>5000</Shield_Refresh_Rate>
+		<Energy_Capacity>1400000</Energy_Capacity>
+		<Energy_Refresh_Rate>100000</Energy_Refresh_Rate>
 		<Ship_Class>capital</Ship_Class>
-		<Surface_Bombardment_Capable>no</Surface_Bombardment_Capable>
+		<Surface_Bombardment_Capable>yes</Surface_Bombardment_Capable>
 		<!--<Political_Control>1</Political_Control>-->
 		<Political_Faction>Empire</Political_Faction>
-		<Squadron_Capacity>70</Squadron_Capacity>
-		<Build_Cost_Credits>11500</Build_Cost_Credits>
+		<Squadron_Capacity>700</Squadron_Capacity>
+		<Build_Cost_Credits>1</Build_Cost_Credits>
 		<AI_Combat_Power>12000</AI_Combat_Power>
-		<Build_Time_Seconds>120</Build_Time_Seconds>
+		<Build_Time_Seconds>1</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		<Size_Value>8</Size_Value>
-		<Build_Limit_Current_Per_Player>2</Build_Limit_Current_Per_Player>
-		
+		<Size_Value>1</Size_Value>
+		<Build_Limit_Current_Per_Player>2000</Build_Limit_Current_Per_Player>
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		
-                
+
+
                 <Starting_Spawned_Units_Tech_0>TIE_Defender_Garrison, 4</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 2</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 14</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 14</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Garrison, 7</Reserve_Spawned_Units_Tech_0>
-                
-		
+
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
 
@@ -1851,7 +1851,7 @@ RightSideHP20
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-		
+
 		<SFXEvent_Build_Cancelled>RHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Ambient_Loop>Unit_Acclamator_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
 
@@ -1872,7 +1872,7 @@ RightSideHP20
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_GRAVITY_WELL, Unit_HP_GRAV_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
-		
+
 		<SFXEvent_Engine_Idle_Loop> Unit_Acclamator_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Acclamator_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_Acclamator_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
@@ -1900,24 +1900,24 @@ RightSideHP20
 		<Encyclopedia_Text> TEXT_TOOLTIP_SSD </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_SUPER </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 12000 </Score_Cost_Credits>
-		
+
 		<Unit_Abilities_Data SubObjectList="Yes">
-			
+
 			<Unit_Ability>
 				<Type>ENERGY_WEAPON</Type>
 				<Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
 				<GUI_Activated_Ability_Name> Piet_Energy_Weapon_Attack_Ability </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-				<Recharge_Seconds>25</Recharge_Seconds>
-				<Expiration_Seconds>120</Expiration_Seconds>
+				<Recharge_Seconds>1</Recharge_Seconds>
+				<Expiration_Seconds>1</Expiration_Seconds>
 				<SFXEvent_Target_Ability> Unit_Energy_Blast_Piett </SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
+				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop>
 			</Unit_Ability>
-			
+
       <Unit_Ability>
 	            <Type>TRACTOR_BEAM</Type>
 	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
 	            <GUI_Activated_Ability_Name>Piet_Tractor_Beam_Attack_Ability</GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-	            <Recharge_Seconds>20</Recharge_Seconds>
+	            <Recharge_Seconds>1</Recharge_Seconds>
 	            <SFXEvent_Target_Ability>Unit_Tractor_Beam_Star_Destroyer</SFXEvent_Target_Ability>
 				   <SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Tractor_Beam </SFXEvent_Special_Ability_Loop>
 	      </Unit_Ability>
@@ -1932,24 +1932,24 @@ RightSideHP20
                 <Owner_Particle_Effect>Piet_Powerup_Particle_Effect</Owner_Particle_Effect>
                 <Owner_Particle_Bone_Name>HP_trac_bone</Owner_Particle_Bone_Name>
 				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>3000</Activation_Max_Range>
+	            <Activation_Max_Range>300000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Damage_Per_Frame>70</Damage_Per_Frame>			
+				<Damage_Per_Frame>70</Damage_Per_Frame>
 			</Energy_Weapon_Attack_Ability>
 
 			<Tractor_Beam_Attack_Ability Name="Piet_Tractor_Beam_Attack_Ability">
 				<Activation_Style> User_Input </Activation_Style>
-				<Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
+				<Applicable_Unit_Categories>Capital | Transport | Corvette | Frigate</Applicable_Unit_Categories>
 	            <Applicable_Unit_Types>Millennium_Falcon</Applicable_Unit_Types>
 
 				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>3000</Activation_Max_Range>
+	            <Activation_Max_Range>300000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Target_Speed_Decrease_Percent>0.99</Target_Speed_Decrease_Percent>
+				<Target_Speed_Decrease_Percent>1</Target_Speed_Decrease_Percent>
 				<Damage_Per_Frame>20</Damage_Per_Frame>
-                               <Stacking_Category>2</Stacking_Category>			
+                               <Stacking_Category>2</Stacking_Category>
 			</Tractor_Beam_Attack_Ability>
 
 
@@ -1962,7 +1962,7 @@ RightSideHP20
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<Population_Value>8</Population_Value>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -1979,7 +1979,7 @@ RightSideHP20
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -1994,7 +1994,7 @@ RightSideHP20
 		<Bank_Turn_Angle>15</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -2025,17 +2025,17 @@ RightSideHP20
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
-		
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		
-                
+
+
                 <Starting_Spawned_Units_Tech_0>TIE_Defender_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Garrison, -1</Reserve_Spawned_Units_Tech_0>
-                
-		
+
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
 
@@ -2056,7 +2056,7 @@ RightSideHP20
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-		
+
 		<SFXEvent_Build_Cancelled>RHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Ambient_Loop>Unit_Acclamator_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
 
@@ -2077,7 +2077,7 @@ RightSideHP20
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_GRAVITY_WELL, Unit_HP_GRAV_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
-		
+
 		<SFXEvent_Engine_Idle_Loop> Unit_Acclamator_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Acclamator_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_Acclamator_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
@@ -2105,19 +2105,19 @@ RightSideHP20
 		<Encyclopedia_Text> TEXT_TOOLTIP_SSD2 </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_SUPER </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 12000 </Score_Cost_Credits>
-		
+
 		<Unit_Abilities_Data SubObjectList="Yes">
-			
+
 			<Unit_Ability>
 				<Type>ENERGY_WEAPON</Type>
 				<Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
 				<GUI_Activated_Ability_Name> Piet_Energy_Weapon_Attack_Ability </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-				<Recharge_Seconds>25</Recharge_Seconds>
-				<Expiration_Seconds>120</Expiration_Seconds>
+				<Recharge_Seconds>2</Recharge_Seconds>
+				<Expiration_Seconds>1</Expiration_Seconds>
 				<SFXEvent_Target_Ability> Unit_Energy_Blast_Piett </SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
+				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop>
 			</Unit_Ability>
-			
+
       <Unit_Ability>
 	            <Type>TRACTOR_BEAM</Type>
 	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -2140,7 +2140,7 @@ RightSideHP20
 	            <Activation_Max_Range>3000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Damage_Per_Frame>70</Damage_Per_Frame>			
+				<Damage_Per_Frame>70</Damage_Per_Frame>
 			</Energy_Weapon_Attack_Ability>
 
 			<Tractor_Beam_Attack_Ability Name="Piet_Tractor_Beam_Attack_Ability">
@@ -2154,7 +2154,7 @@ RightSideHP20
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 				<Target_Speed_Decrease_Percent>0.99</Target_Speed_Decrease_Percent>
 				<Damage_Per_Frame>20</Damage_Per_Frame>
-                               <Stacking_Category>2</Stacking_Category>			
+                               <Stacking_Category>2</Stacking_Category>
 			</Tractor_Beam_Attack_Ability>
 
 
@@ -2167,7 +2167,7 @@ RightSideHP20
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<Population_Value>8</Population_Value>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -2184,66 +2184,66 @@ RightSideHP20
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 
 		<Reinforcement_Prevention_Radius> 2000 </Reinforcement_Prevention_Radius>
-                <Max_Speed>1.5</Max_Speed>
-		<Max_Rate_Of_Turn>0.5</Max_Rate_Of_Turn>
+                <Max_Speed>9.5</Max_Speed>
+		<Max_Rate_Of_Turn>4.5</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Capital </Space_Layer>
 		<Layer_Z_Adjust>-430.0</Layer_Z_Adjust>
-		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
+		<Max_Rate_Of_Roll>1.2</Max_Rate_Of_Roll>
 		<Bank_Turn_Angle>15</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
-		<Max_Thrust>0.1</Max_Thrust>
+
+		<Max_Thrust>0.9</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
-		<Hyperspace_Speed>1</Hyperspace_Speed>
+		<Hyperspace_Speed>8</Hyperspace_Speed>
 		<Maintenance_Cost>0.5</Maintenance_Cost>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>5</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>5</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures />
 		<Required_Planets>MonCalimari, Kuat, Fondor, Sullust</Required_Planets>
-		<Damage>550</Damage>
+		<Damage>15509</Damage>
 		<Autoresolve_Health>50000</Autoresolve_Health>
-		<Shield_Points>50000</Shield_Points>
+		<Shield_Points>5000000</Shield_Points>
 		<Tactical_Health>60000</Tactical_Health> <!-- was 6000 -->
-		<Shield_Refresh_Rate>700</Shield_Refresh_Rate>
-		<Energy_Capacity>38000</Energy_Capacity>
+		<Shield_Refresh_Rate>7000</Shield_Refresh_Rate>
+		<Energy_Capacity>380000</Energy_Capacity>
 		<Energy_Refresh_Rate>15000</Energy_Refresh_Rate>
 		<Ship_Class>capital</Ship_Class>
 		<!--<Political_Control>1</Political_Control>-->
 		<Political_Faction>Empire</Political_Faction>
-		<Squadron_Capacity>70</Squadron_Capacity>
-		<Build_Cost_Credits>25000</Build_Cost_Credits>
+		<Squadron_Capacity>10</Squadron_Capacity>
+		<Build_Cost_Credits>1</Build_Cost_Credits>
 		<AI_Combat_Power>12000</AI_Combat_Power>
-		<Build_Time_Seconds>230</Build_Time_Seconds>
+		<Build_Time_Seconds>1</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		<Size_Value>8</Size_Value>
-		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
-		
+		<Size_Value>1</Size_Value>
+		<Build_Limit_Current_Per_Player>15</Build_Limit_Current_Per_Player>
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		
+
                 <Starting_Spawned_Units_Tech_0>TIE_Claw_Squadron, 6</Starting_Spawned_Units_Tech_0>
                 <Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron2, 6</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 6</Starting_Spawned_Units_Tech_0>
-		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0> 
+		<Spawned_Squadron_Delay_Seconds>60</Spawned_Squadron_Delay_Seconds>
+		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron2, -1</Reserve_Spawned_Units_Tech_0>
                 <Reserve_Spawned_Units_Tech_0>TIE_Claw_Squadron, -1</Reserve_Spawned_Units_Tech_0>
-		
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
 
-		<Space_FOW_Reveal_Range>4000.0</Space_FOW_Reveal_Range>
+		<Space_FOW_Reveal_Range>40000.0</Space_FOW_Reveal_Range>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Targeting_Max_Attack_Distance>1800.0</Targeting_Max_Attack_Distance>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
@@ -2281,7 +2281,7 @@ RightSideHP20
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_GRAVITY_WELL, Unit_HP_GRAV_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
-		
+
 		<SFXEvent_Engine_Idle_Loop> Unit_Acclamator_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Acclamator_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_Acclamator_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
@@ -2309,23 +2309,23 @@ RightSideHP20
 		<Encyclopedia_Text> TEXT_TOOLTIP_ESSD </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_SUPER_DREAD </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 12000 </Score_Cost_Credits>
-		
+
 		<Unit_Abilities_Data SubObjectList="Yes">
-			
+
 			<Unit_Ability>
 				<Type>ENERGY_WEAPON</Type>
 				<Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
 				<GUI_Activated_Ability_Name> Piet_Energy_Weapon_Attack_Ability </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-				<Recharge_Seconds>25</Recharge_Seconds>
-				<Expiration_Seconds>120</Expiration_Seconds>
+				<Recharge_Seconds>1</Recharge_Seconds>
+				<Expiration_Seconds>2</Expiration_Seconds>
 				<SFXEvent_Target_Ability> Unit_Energy_Blast_Piett </SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
+				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop>
 			</Unit_Ability>
-			
+
                         <Unit_Ability>
 				<Type>INTERDICT</Type>
 				<Disable_Movement>No</Disable_Movement>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Interdictor_Interdictor</SFXEvent_GUI_Unit_Ability_Activated>
 				<SFXEvent_GUI_Unit_Ability_Deactivated />
 			</Unit_Ability>
@@ -2340,10 +2340,10 @@ RightSideHP20
                 <Owner_Particle_Effect>Piet_Powerup_Particle_Effect</Owner_Particle_Effect>
                 <Owner_Particle_Bone_Name>HP_trac_bone</Owner_Particle_Bone_Name>
 				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>5000</Activation_Max_Range>
+	            <Activation_Max_Range>50000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Damage_Per_Frame>70</Damage_Per_Frame>			
+				<Damage_Per_Frame>70</Damage_Per_Frame>
 			</Energy_Weapon_Attack_Ability>
 
                     </Abilities>
@@ -2355,7 +2355,7 @@ RightSideHP20
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<Population_Value>8</Population_Value>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -2367,7 +2367,7 @@ RightSideHP20
 		<Space_Model_Name>Titan.ALO</Space_Model_Name>
 
 		<Ranking_In_Category>5</Ranking_In_Category>
-	
+
 	   <GUI_Bracket_Height>500</GUI_Bracket_Height>
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 
@@ -2378,12 +2378,12 @@ RightSideHP20
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 
-		<Max_Speed>1.4</Max_Speed>
+		<Max_Speed>3.4</Max_Speed>
 		<Max_Rate_Of_Turn>0.3</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Capital </Space_Layer>
@@ -2392,8 +2392,8 @@ RightSideHP20
 		<Bank_Turn_Angle>5</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
-		<Max_Thrust>0.1</Max_Thrust>
+
+		<Max_Thrust>0.3</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
 		<Maintenance_Cost>0.3</Maintenance_Cost>
@@ -2417,23 +2417,23 @@ RightSideHP20
 		<!--<Political_Control>1</Political_Control>-->
 		<Political_Faction>Empire</Political_Faction>
 		<Squadron_Capacity>40</Squadron_Capacity>
-		<Build_Cost_Credits>6200</Build_Cost_Credits>
+		<Build_Cost_Credits>1</Build_Cost_Credits>
 		<AI_Combat_Power>5900</AI_Combat_Power>
-		<Build_Time_Seconds>40</Build_Time_Seconds>
+		<Build_Time_Seconds>0</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		<Size_Value>8</Size_Value>
-		
+		<Size_Value>1</Size_Value>
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Defender_Garrison, 1</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 8</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Garrison, 4</Reserve_Spawned_Units_Tech_0>
 
-		
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
-		
+
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Death_Explosions>Large_Explosion_Space_Empire</Death_Explosions>
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
@@ -2442,7 +2442,7 @@ RightSideHP20
 		<Space_FOW_Reveal_Range>1200.0</Space_FOW_Reveal_Range>
 		<Targeting_Max_Attack_Distance>2000.0</Targeting_Max_Attack_Distance>
 
-		<HardPoints> 
+		<HardPoints>
 LeftSideHP012,
 LeftSideHP022,
 LeftSideHP032,
@@ -2493,7 +2493,7 @@ LeftSideHP152
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENABLE_SPECIAL_ABILITY, </SFXEvent_Hardpoint_Destroyed>
 
 		<Death_SFXEvent_Start_Die>Unit_Star_Destroyer_Death_SFX</Death_SFXEvent_Start_Die>
-         
+
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Build_Complete>Unit_Complete_Star_Destroyer</SFXEvent_Build_Complete>
@@ -2511,7 +2511,7 @@ LeftSideHP152
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-		 
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -2541,14 +2541,14 @@ LeftSideHP152
 	            <Activation_Style> User_Input </Activation_Style>
 	            <Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
 	            <Applicable_Unit_Types>Millennium_Falcon</Applicable_Unit_Types>
-	            
+
 	            <Activation_Min_Range>10</Activation_Min_Range>
 	            <Activation_Max_Range>1800</Activation_Max_Range>
 
 
 	            <!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 	            <Target_Speed_Decrease_Percent>0.75</Target_Speed_Decrease_Percent>
-	            <Stacking_Category>0</Stacking_Category>            
+	            <Stacking_Category>0</Stacking_Category>
 	      </Tractor_Beam_Attack_Ability>
 
 	   </Abilities>
@@ -2563,7 +2563,7 @@ LeftSideHP152
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -2575,7 +2575,7 @@ LeftSideHP152
 		<Space_Model_Name>LUCREHULK.ALO</Space_Model_Name>
 
 		<Ranking_In_Category>5</Ranking_In_Category>
-	
+
 	   <GUI_Bracket_Height>500</GUI_Bracket_Height>
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 
@@ -2586,7 +2586,7 @@ LeftSideHP152
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -2600,7 +2600,7 @@ LeftSideHP152
 		<Bank_Turn_Angle>5</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -2630,18 +2630,18 @@ LeftSideHP152
 		<Build_Time_Seconds>40</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
-		
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 5</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>T_Wing_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>Pirate_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>T_Wing_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 
-		
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
-		
+
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Death_Explosions>Large_Explosion_Space_Empire</Death_Explosions>
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
@@ -2654,8 +2654,8 @@ LeftSideHP152
 			HP_Core_Fighter_Bay1, HP_Core_Fighter_Bay2, HP_Core_Shield_Generator1, HP_Core_Generator, HP_Core_Weapon_BL, HP_Core_Weapon_BL2, Core22, Core23, Core24, Core25, HP_Core_Weapon_BL26, HP_Core_Weapon_BL27, Core30, Core31, HP_Core_Engines1, HP_Core_Engines2, HP_Core_Engines3, HP_Core_Tractor_Beam
 </HardPoints>
 
-		
-		
+
+
 		<SFXEvent_Build_Started>RHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>RHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Build_Complete>CIS_Space_Move_Fleet</SFXEvent_Build_Complete>
@@ -2670,20 +2670,20 @@ LeftSideHP152
 		<SFXEvent_Move_Into_Asteroid_Field> CIS_Space_Nebula </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> CIS_Space_Nebula </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
-		
 
-		
 
-		<Death_SFXEvent_Start_Die>CIS_Space_Dead</Death_SFXEvent_Start_Die>		
 
-		<Tactical_Buildable_Objects_Multiplayer> 
+
+		<Death_SFXEvent_Start_Die>CIS_Space_Dead</Death_SFXEvent_Start_Die>
+
+		<Tactical_Buildable_Objects_Multiplayer>
 			Pirates,
 				IPV1_System_Patrol_Craft,
                                 Providence,
                                 Techno,
-                                Genosian, 
+                                Genosian,
 				Recusant,
-				Diamond_Frigate, 
+				Diamond_Frigate,
 				Techno_Frigate,
 				Pirate_Frigate,
 				</Tactical_Buildable_Objects_Multiplayer>
@@ -2699,7 +2699,7 @@ LeftSideHP152
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-		 
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -2729,14 +2729,14 @@ LeftSideHP152
 	            <Activation_Style> User_Input </Activation_Style>
 	            <Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
 	            <Applicable_Unit_Types>Millennium_Falcon</Applicable_Unit_Types>
-	            
+
 	            <Activation_Min_Range>10</Activation_Min_Range>
 	            <Activation_Max_Range>3800</Activation_Max_Range>
 
 
 	            <!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 	            <Target_Speed_Decrease_Percent>0.75</Target_Speed_Decrease_Percent>
-	            <Stacking_Category>0</Stacking_Category>            
+	            <Stacking_Category>0</Stacking_Category>
 	      </Tractor_Beam_Attack_Ability>
 
 	   </Abilities>
@@ -2751,7 +2751,7 @@ LeftSideHP152
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -2768,7 +2768,7 @@ LeftSideHP152
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -2783,7 +2783,7 @@ LeftSideHP152
 		<Bank_Turn_Angle>15</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -2827,17 +2827,17 @@ LeftSideHP152
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
-		
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		
-               
+
+
                 <Starting_Spawned_Units_Tech_0>TIE_Defender_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Garrison, -1</Reserve_Spawned_Units_Tech_0>
-                
-		
+
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, TACTICAL_SUPER_WEAPON </SpaceBehavior>
 
@@ -2858,7 +2858,7 @@ LeftSideHP152
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-		
+
 		<SFXEvent_Build_Cancelled>RHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Ambient_Loop>Unit_Acclamator_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
 
@@ -2879,7 +2879,7 @@ LeftSideHP152
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_GRAVITY_WELL, Unit_HP_GRAV_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
-		
+
 		<SFXEvent_Engine_Idle_Loop> Unit_Acclamator_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Acclamator_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_Acclamator_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
@@ -2907,9 +2907,9 @@ LeftSideHP152
 		<Encyclopedia_Text> TEXT_TOOLTIP_SOV </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_SUPER </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 12000 </Score_Cost_Credits>
-		
+
 		<Unit_Abilities_Data SubObjectList="Yes">
-			
+
 			<Unit_Ability>
 				<Type>ENERGY_WEAPON</Type>
 				<Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -2917,9 +2917,9 @@ LeftSideHP152
 				<Recharge_Seconds>25</Recharge_Seconds>
 				<Expiration_Seconds>120</Expiration_Seconds>
 				<SFXEvent_Target_Ability> Unit_Energy_Blast_Piett </SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
+				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop>
 			</Unit_Ability>
-			
+
       <Unit_Ability>
 	            <Type>TRACTOR_BEAM</Type>
 	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -2942,7 +2942,7 @@ LeftSideHP152
 	            <Activation_Max_Range>3000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Damage_Per_Frame>70</Damage_Per_Frame>			
+				<Damage_Per_Frame>70</Damage_Per_Frame>
 			</Energy_Weapon_Attack_Ability>
 
 			<Tractor_Beam_Attack_Ability Name="Piet_Tractor_Beam_Attack_Ability">
@@ -2956,9 +2956,9 @@ LeftSideHP152
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 				<Target_Speed_Decrease_Percent>0.99</Target_Speed_Decrease_Percent>
 				<Damage_Per_Frame>20</Damage_Per_Frame>
-                               <Stacking_Category>2</Stacking_Category>			
+                               <Stacking_Category>2</Stacking_Category>
 			</Tractor_Beam_Attack_Ability>
-                       
+
                        <!--<Base_Destruction_Ability Name="Death_Star_Base_Destruction">
 				<Destroy_Starbase>Yes</Destroy_Starbase>
 				<Destroy_Land_Base>No</Destroy_Land_Base>
@@ -2981,7 +2981,7 @@ LeftSideHP152
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<Population_Value>8</Population_Value>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -2998,7 +2998,7 @@ LeftSideHP152
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -3013,14 +3013,14 @@ LeftSideHP152
 		<Bank_Turn_Angle>15</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
-		<Hyperspace_Speed>1</Hyperspace_Speed>
+		<Hyperspace_Speed>2</Hyperspace_Speed>
 		<Maintenance_Cost>0.5</Maintenance_Cost>
 
 
-                
+
 
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>99</Tech_Level>
@@ -3033,31 +3033,31 @@ LeftSideHP152
 		<Autoresolve_Health>30000</Autoresolve_Health>
 		<Shield_Points>25000</Shield_Points>
 		<Tactical_Health>30000</Tactical_Health> <!-- was 6000 -->
-		<Shield_Refresh_Rate>200</Shield_Refresh_Rate>
+		<Shield_Refresh_Rate>2003</Shield_Refresh_Rate>
 		<Energy_Capacity>22000</Energy_Capacity>
 		<Energy_Refresh_Rate>10000</Energy_Refresh_Rate>
 		<Ship_Class>capital</Ship_Class>
 		<Surface_Bombardment_Capable>yes</Surface_Bombardment_Capable>
 		<!--<Political_Control>1</Political_Control>-->
 		<Political_Faction>Empire</Political_Faction>
-		<Squadron_Capacity>70</Squadron_Capacity>
-		<Build_Cost_Credits>15000</Build_Cost_Credits>
+		<Squadron_Capacity>100</Squadron_Capacity>
+		<Build_Cost_Credits>0</Build_Cost_Credits>
 		<AI_Combat_Power>12000</AI_Combat_Power>
 		<Build_Time_Seconds>200</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		<Size_Value>8</Size_Value>
-		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
-		
+		<Size_Value>1</Size_Value>
+		<Build_Limit_Current_Per_Player>1000</Build_Limit_Current_Per_Player>
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		
-               
+
+
                 <Starting_Spawned_Units_Tech_0>TIE_Defender_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Avenger_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Avenger_Garrison, -1</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Garrison, -1</Reserve_Spawned_Units_Tech_0>
-                
-		
+
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, TACTICAL_SUPER_WEAPON </SpaceBehavior>
 
@@ -3078,7 +3078,7 @@ LeftSideHP152
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-		
+
 		<SFXEvent_Build_Cancelled>RHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Ambient_Loop>Unit_Acclamator_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
 
@@ -3099,7 +3099,7 @@ LeftSideHP152
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_GRAVITY_WELL, Unit_HP_GRAV_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
-		
+
 		<SFXEvent_Engine_Idle_Loop> Unit_Acclamator_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Acclamator_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_Acclamator_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
@@ -3127,9 +3127,9 @@ LeftSideHP152
 		<Encyclopedia_Text> TEXT_TOOLTIP_SOV </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_SUPER </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 12000 </Score_Cost_Credits>
-		
+
 		<Unit_Abilities_Data SubObjectList="Yes">
-			
+
 			<Unit_Ability>
 				<Type>ENERGY_WEAPON</Type>
 				<Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -3137,9 +3137,9 @@ LeftSideHP152
 				<Recharge_Seconds>25</Recharge_Seconds>
 				<Expiration_Seconds>120</Expiration_Seconds>
 				<SFXEvent_Target_Ability> Unit_Energy_Blast_Piett </SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
+				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop>
 			</Unit_Ability>
-			
+
       <Unit_Ability>
 	            <Type>TRACTOR_BEAM</Type>
 	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -3162,7 +3162,7 @@ LeftSideHP152
 	            <Activation_Max_Range>3000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Damage_Per_Frame>70</Damage_Per_Frame>			
+				<Damage_Per_Frame>70</Damage_Per_Frame>
 			</Energy_Weapon_Attack_Ability>
 
 			<Tractor_Beam_Attack_Ability Name="Piet_Tractor_Beam_Attack_Ability">
@@ -3171,14 +3171,14 @@ LeftSideHP152
 	            <Applicable_Unit_Types>Millennium_Falcon</Applicable_Unit_Types>
 
 				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>3000</Activation_Max_Range>
+	            <Activation_Max_Range>30000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 				<Target_Speed_Decrease_Percent>0.99</Target_Speed_Decrease_Percent>
 				<Damage_Per_Frame>20</Damage_Per_Frame>
-                               <Stacking_Category>2</Stacking_Category>			
+                               <Stacking_Category>2</Stacking_Category>
 			</Tractor_Beam_Attack_Ability>
-                       
+
                      </Abilities>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->
@@ -3188,7 +3188,7 @@ LeftSideHP152
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<Population_Value>8</Population_Value>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
@@ -3205,7 +3205,7 @@ LeftSideHP152
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -3220,14 +3220,14 @@ LeftSideHP152
 		<Bank_Turn_Angle>15</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
 		<Maintenance_Cost>0.5</Maintenance_Cost>
 
 
-                
+
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>3</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
@@ -3252,16 +3252,16 @@ LeftSideHP152
 		<Build_Time_Seconds>50</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
-		
-		
+
+
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		
-                
+
+
                 <Starting_Spawned_Units_Tech_0>TIE_Defender_Garrison, 6</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Garrison, 10</Reserve_Spawned_Units_Tech_0>
-                
-		
+
+
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
 
@@ -3282,7 +3282,7 @@ LeftSideHP152
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-		
+
 		<SFXEvent_Build_Cancelled>RHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Ambient_Loop>Unit_Acclamator_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
 
@@ -3303,7 +3303,7 @@ LeftSideHP152
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
 		<SFXEvent_Attack_Hardpoint> HARD_POINT_GRAVITY_WELL, Unit_HP_GRAV_Jedi_Cruiser </SFXEvent_Attack_Hardpoint>
-		
+
 		<SFXEvent_Engine_Idle_Loop> Unit_Acclamator_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Acclamator_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_Acclamator_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
@@ -3331,11 +3331,11 @@ LeftSideHP152
 		<Encyclopedia_Text> TEXT_TOOLTIP_MANDATOR </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 12000 </Score_Cost_Credits>
-		
+
 		<Unit_Abilities_Data SubObjectList="Yes">
-			
-			
-			
+
+
+
       <Unit_Ability>
 	            <Type>TRACTOR_BEAM</Type>
 	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -3348,7 +3348,7 @@ LeftSideHP152
 		</Unit_Abilities_Data>
 
 		<Abilities SubObjectList="Yes">
-			
+
 
 			<Tractor_Beam_Attack_Ability Name="Piet_Tractor_Beam_Attack_Ability">
 				<Activation_Style> User_Input </Activation_Style>
@@ -3361,10 +3361,10 @@ LeftSideHP152
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 				<Target_Speed_Decrease_Percent>0.99</Target_Speed_Decrease_Percent>
 				<Damage_Per_Frame>20</Damage_Per_Frame>
-                               <Stacking_Category>2</Stacking_Category>			
+                               <Stacking_Category>2</Stacking_Category>
 			</Tractor_Beam_Attack_Ability>
-                       
-                       
+
+
 
 
 
@@ -3377,11 +3377,11 @@ LeftSideHP152
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<Population_Value>8</Population_Value>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
-   
+
 
 <SpaceUnit Name="MC90">
 		<Text_ID>TEXT_UNIT_MC90B</Text_ID>
@@ -3409,7 +3409,7 @@ LeftSideHP152
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -3455,7 +3455,7 @@ LeftSideHP152
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_MC90_Engines, HP_MC90_Super1, HP_MC90_Super2, HP_Weapon_MC9010, HP_Weapon_MC9011, HP_Weapon_MC90a, HP_Weapon_MC90b, HP_Fighter_BayMC90, HP_Weapon_MC90c, MC90888, MC90a888, MC90b888, HP_Weapon_MC90m
 		</HardPoints>
 
@@ -3469,11 +3469,11 @@ LeftSideHP152
 
                 <Starting_Spawned_Units_Tech_0>Rebel_E-Wing_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>Rebel_E-Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>
-	
 
-	
+
+
 <Starting_Spawned_Units_Tech_0>B-Wing_Squadron, 2</Starting_Spawned_Units_Tech_0>
-	<Reserve_Spawned_Units_Tech_0>B-Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>	
+	<Reserve_Spawned_Units_Tech_0>B-Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>
 
 <Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
 
@@ -3519,12 +3519,12 @@ LeftSideHP152
 		<Death_SFXEvent_Start_Die>Unit_Calamari_Death_SFX</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -3544,12 +3544,12 @@ LeftSideHP152
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_MC90B TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -3560,7 +3560,7 @@ LeftSideHP152
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -3591,7 +3591,7 @@ LeftSideHP152
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -3637,7 +3637,7 @@ LeftSideHP152
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			HP_Calamari_Cruiser2_Weapon_FL, HP_Calamari_Cruiser2_Weapon_FR, HP_Calamari_Cruiser2_Weapon_BL, HP_Calamari_Cruiser2_Weapon_BR, HP_Calamari_Cruiser2_Hanger_L, HP_Calamari_Cruiser2_Hanger_R, HP_Calamari_Cruiser2_Engines, HP_Calamari_Cruiser2_Weapon_BL3, HP_Calamari_Cruiser2_Weapon_BL2
 		</HardPoints>
 
@@ -3651,11 +3651,11 @@ LeftSideHP152
 
                 <Starting_Spawned_Units_Tech_0>Rebel_E-Wing_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>Rebel_E-Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>
-	
 
-	
+
+
 <Starting_Spawned_Units_Tech_0>B-Wing_Squadron, 2</Starting_Spawned_Units_Tech_0>
-	<Reserve_Spawned_Units_Tech_0>B-Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>	
+	<Reserve_Spawned_Units_Tech_0>B-Wing_Squadron, 2</Reserve_Spawned_Units_Tech_0>
 
 <Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
 
@@ -3701,12 +3701,12 @@ LeftSideHP152
 		<Death_SFXEvent_Start_Die>Unit_Calamari_Death_SFX</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -3726,12 +3726,12 @@ LeftSideHP152
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
+
 		</Unit_Abilities_Data>
-       
+
 		<Encyclopedia_Text> TEXT_TOOLTIP_MC80B TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
@@ -3742,7 +3742,7 @@ LeftSideHP152
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -3774,7 +3774,7 @@ LeftSideHP152
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 		<Max_Rate_Of_Roll>0.2</Max_Rate_Of_Roll>
-		<Bank_Turn_Angle>25</Bank_Turn_Angle>	
+		<Bank_Turn_Angle>25</Bank_Turn_Angle>
 		<Max_Thrust>0.2</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -3820,7 +3820,7 @@ LeftSideHP152
 		<Death_Clone />
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
 
-		<HardPoints> 
+		<HardPoints>
 			M01, M02, M03, M04, M05, M06, M07, M08, M09, M10, M11, M12, M13, M14, M15, M104_Hangar02
 		</HardPoints>
 
@@ -3832,7 +3832,7 @@ LeftSideHP152
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-                
+
 
 
 		<SFXEvent_Build_Started>RHD_Build_Vehicle</SFXEvent_Build_Started>
@@ -3882,12 +3882,12 @@ LeftSideHP152
 		<Death_SFXEvent_Start_Die>Unit_Calamari_Death_SFX</Death_SFXEvent_Start_Die>
 
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
-        
+
 		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Name>i_radar_capital_ship.tga</Radar_Icon_Name>
-		
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -3907,10 +3907,10 @@ LeftSideHP152
 				<Mod_Multiplier>SPEED_MULTIPLIER,		0.8f</Mod_Multiplier>
 				<Recharge_Seconds>40</Recharge_Seconds>
 				<Expiration_Seconds>15</Expiration_Seconds>
-				
+
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Calamari</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-		
+
                      <Unit_Ability>
 				<Type>ENERGY_WEAPON</Type>
 				<Mod_Multiplier>SPEED_MULTIPLIER, 0.9</Mod_Multiplier>
@@ -3918,12 +3918,12 @@ LeftSideHP152
 				<Recharge_Seconds>30</Recharge_Seconds>
 				<Expiration_Seconds>140</Expiration_Seconds>
 				<SFXEvent_Target_Ability> Unit_Attack_Calamari </SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
-			</Unit_Ability>	
+				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop>
+			</Unit_Ability>
 
 
 		</Unit_Abilities_Data>
-       
+
                <Abilities SubObjectList="Yes">
 			<Energy_Weapon_Attack_Ability Name="Piet_Energy_Weapon_Attack_Ability">
 				<Activation_Style> User_Input </Activation_Style>
@@ -3935,7 +3935,7 @@ LeftSideHP152
 	            <Activation_Max_Range>3000</Activation_Max_Range>
 
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Damage_Per_Frame>70</Damage_Per_Frame>			
+				<Damage_Per_Frame>70</Damage_Per_Frame>
 			</Energy_Weapon_Attack_Ability>
                        </Abilities>
 
@@ -3949,7 +3949,7 @@ LeftSideHP152
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
-		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
@@ -3978,7 +3978,7 @@ LeftSideHP152
 		<Space_Model_Name>Mediator_Cruiser.ALO</Space_Model_Name>
 
 		<Ranking_In_Category>3</Ranking_In_Category>
-	
+
 	   	<GUI_Bracket_Height>500</GUI_Bracket_Height>
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 
@@ -3989,7 +3989,7 @@ LeftSideHP152
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
-		
+
 		<Visible_On_Radar_When_Fogged>true</Visible_On_Radar_When_Fogged>
 		<Armor_Type> Armor_Calamari_Cruiser </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -4003,7 +4003,7 @@ LeftSideHP152
 		<Bank_Turn_Angle>5</Bank_Turn_Angle>
 		<OverrideAcceleration> .02 </OverrideAcceleration>
 		<OverrideDeceleration> .02 </OverrideDeceleration>
-		
+
 		<Max_Thrust>0.1</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1</Hyperspace_Speed>
@@ -4034,7 +4034,7 @@ LeftSideHP152
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 
-		
+
 
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>Rebel_E-Wing_Squadron, 3</Starting_Spawned_Units_Tech_0>
@@ -4045,7 +4045,7 @@ LeftSideHP152
 
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, SPAWN_SQUADRON, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
-		
+
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Death_Explosions>Friggin_Huge_Explosion_Space</Death_Explosions>
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
@@ -4055,7 +4055,7 @@ LeftSideHP152
 		<Space_FOW_Reveal_Range>1800.0</Space_FOW_Reveal_Range>
 		<Targeting_Max_Attack_Distance>2200.0</Targeting_Max_Attack_Distance>
 
-		<HardPoints> 
+		<HardPoints>
 Mediator_HP01,
 Mediator_HP02,
 Mediator_HP03,
@@ -4129,7 +4129,7 @@ Mediator_Hangar02
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Space_Full_Stop_Command> Yes </Space_Full_Stop_Command>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
-		 
+
 		<Guard_Chase_Range>1000.0</Guard_Chase_Range>
 		<Idle_Chase_Range>0.0</Idle_Chase_Range>
 		<Attack_Move_Response_Range>400.0</Attack_Move_Response_Range>
@@ -4156,7 +4156,7 @@ Mediator_Hangar02
 				<Expiration_Seconds>15</Expiration_Seconds>
 				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Defend_Ackbar</SFXEvent_GUI_Unit_Ability_Activated>
 				<SFXEvent_GUI_Unit_Ability_Deactivated />
-			</Unit_Ability>			
+			</Unit_Ability>
 		</Unit_Abilities_Data>
 
 		<Encyclopedia_Text> TEXT_TOOLTIP_MEDIATOR_CRUISER </Encyclopedia_Text>
