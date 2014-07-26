@@ -1,0 +1,39 @@
+1 Cred = 1 Sec Mod ReadMe-
+
+This is my first mod and I know that this is a simple mod idea so before any of you get
+mad about how simple this is, put into consideration that this is my first mod.
+
+Details-
+-Makes every last thing inside the game only 1 credit. (doesn't work in Galactic Conquest 
+							except for space stations)
+-Unlocks Venator for build at skirmish build staelite (i forget what it is called)
+-Everything takes 1 second to build (including turrets and upgrades)
+-Turrets are more powerful (the normal laser turret for space doesn't stop firing except
+				i made it fire slower shots at close range so it is not
+				invicible)
+-All space and land units are 0 on the population cap so there is unlimited anything
+-I think that's it. Enjoy! :)
+
+Reason for this mod-
+I just got tired of having to wait and wait for units and not being able to have many 
+Star Destroyers of Mon Callamaris. So i decided to make this.
+
+Side effects of mod :) - 
+you will start to think that 1 second takes to long to get a unit (it happened to the
+testers)
+
+Installation-
+just copy the XML folder into your EaW data folder
+(yes this mod is for EaW not FoC i might make 1 for FoC)
+
+Known bugs-
+I'm not sure if there are any. If there are just post them here.
+
+
+Credits-
+Delta_____62 (made the mod)
+thanks to the [1stB] clan for testing out the mod
+
+Contact-
+I use xfire more than my email. My xfire is firstbattalion and if you must email me,
+my email is greena46607ATearthlinkDOTnet
